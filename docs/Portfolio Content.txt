@@ -1,0 +1,2874 @@
+﻿Note : Most figma links also have their research and design system inside the design figma file. 
+UI / UX Design
+Snac AI
+Cook what you have.
+Overview
+Snac AI is an AI-powered meal planning mobile application that helps users create meals using available kitchen ingredients—reducing waste and simplifying daily decisions.
+AI Meal Planner · Mobile App · Design System
+Problem
+Users struggle with:
+* What to cook daily
+* Wasting unused ingredients
+* Inefficient grocery planning
+* Maintaining diet goals
+→ Results in time loss, food waste, and inconsistency
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ User insights, competitor analysis, and behavior patterns
+02 — Strategy & Positioning
+ Defined direction: “Intelligence made visible”
+03 — Design System
+ Typography, colors, components, and scalable UI foundation
+Solution
+Snac AI enables users to:
+* Generate recipes from available ingredients
+* Plan meals based on goals
+* Auto-create shopping lists
+* Optimize ingredient usage
+Core Features
+* AI Recipe Generator — meals from available ingredients
+* Meal Planning — daily/weekly with nutrition insights
+* My Kitchen — track ingredients & expiry
+* Shopping List — auto-generated essentials
+* Save & Share — personal recipe collection
+Target Audience
+* Students
+* Working professionals
+* Families
+* Budget-conscious users
+* Waste-conscious users
+Design Approach
+* Minimal & intuitive
+* Fast and frictionless
+* Clear hierarchy
+* Soft, clean visuals
+Figma
+(Research + design included in file)
+ https://www.figma.com/design/wnT3jiwz9fmbuzp6e6I6hr/Snac-AI?node-id=1-2&p=f&t=L7hdl9LTa2YoeKGy-0
+Outcome
+* Faster decisions
+* Reduced waste
+* Better diet consistency
+* Improved kitchen workflow
+Future Scope
+* Advanced nutrition AI
+* Grocery integrations
+* Habit-based recommendations
+* Voice assistant
+
+
+
+
+Humix AI
+Your smart diet & fitness companion.
+Overview
+Humix AI is an AI-powered diet tracking and meal planning mobile application designed for fitness-focused users. It helps track calories, monitor nutrition, and generate personalized plans based on user goals.
+AI Diet Tracker · Mobile App · Design System
+Problem
+Users struggle with:
+* Tracking calories consistently
+* Understanding nutrition intake
+* Planning meals for fitness goals
+* Staying disciplined with diet routines
+→ Results in inconsistency, poor tracking, and slow progress
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ User behavior analysis in fitness & diet tracking
+02 — Strategy & Positioning
+ Defined direction: “Data-driven fitness made simple”
+03 — Design System
+ Dark UI, structured data visuals, scalable components
+Solution
+Humix AI enables users to:
+* Track meals, calories, and macros
+* Get AI-generated diet plans
+* Monitor progress toward fitness goals
+* Maintain consistency through insights
+Core Features
+* Calorie Tracker — log meals & daily intake
+* AI Diet Plans — personalized for goals (lose/gain/maintain)
+* Macro Insights — protein, carbs, fats tracking
+* Progress Dashboard — goals, stats, and trends
+* Meal Logging — quick add & smart suggestions
+Target Audience
+* Gym users
+* Fitness enthusiasts
+* Diet-conscious individuals
+* Beginners tracking health
+* Users with specific fitness goals
+Design Approach
+* Dark, bold, high-contrast UI
+* Data-focused layouts
+* Clean, structured dashboards
+* Fast and minimal interactions
+Figma
+https://www.figma.com/design/2OED9zNsH7QBSXGWl2xScr/Humix-AI?node-id=0-1&p=f&t=WKlCA4mOK52UEv2O-0
+Outcome
+* Better diet tracking consistency
+* Clear fitness progress visibility
+* Improved goal alignment
+* Simplified nutrition management
+Future Scope
+* AI-based workout integration
+* Wearable device sync
+* Barcode food scanning
+* Real-time coaching insights
+
+
+Kids Learning App
+Learn through play, one reel at a time.
+Overview
+A reel-based kids learning mobile application where children consume short, engaging educational videos. Content is structured by categories, with full parental control and admin-managed content.
+Reel-Based Learning · Mobile App · Admin System
+Problem
+Parents and kids face:
+* Lack of engaging educational content
+* Excessive exposure to non-educational media
+* No control over what kids consume
+* Difficulty in maintaining learning consistency
+→ Results in distraction, unsafe content exposure, and poor learning habits
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Understanding kids’ behavior, attention span, and content patterns
+02 — Strategy & Positioning
+ Defined direction: “Learning made engaging & controlled”
+03 — Design System
+ Playful UI, simple navigation, structured content hierarchy
+Solution
+The app enables:
+* Reel-based short learning videos
+* Category-based structured content
+* Safe, controlled environment for kids
+* Full admin control over content
+Core Features
+* Reel Learning Feed — short, engaging educational videos
+* Category-Based Content — subjects, morals, skills, etc.
+* Parental Lock — restricted access & safe usage
+* Profile Control — child-specific experience
+* Admin Panel — upload, manage, and control all content
+Target Audience
+* Kids (early learners)
+* Parents
+* Educational content creators
+* Schools / learning platforms
+Design Approach
+* Playful yet clean interface
+* Highly visual & engaging
+* Simple navigation for kids
+* Safe and distraction-free experience
+Figma
+Mini apps link : https://docs.google.com/spreadsheets/d/1F9VfboNzAOBRxWEI8hZcfkOJ6BOslvlYniyKMqs9dao/edit?gid=0#gid=0
+Outcome
+* Increased engagement in learning
+* Safe content consumption
+* Better retention through short videos
+* Controlled digital environment for kids
+Future Scope
+* AI-based content recommendations
+* Progress tracking & rewards
+* Voice-assisted learning
+* Multi-language support
+
+
+Heatriq
+Real-time monitoring. Intelligent control.
+Overview
+Heatriq is a web + mobile monitoring platform designed to track, analyze, and control operational systems in real time. It provides centralized dashboards, live alerts, and remote access for seamless system management.
+Monitoring System · Web App · Mobile App · Admin Dashboard
+Problem
+Organizations face:
+* No real-time visibility of systems
+* Delayed response to failures
+* Data scattered across tools
+* No remote monitoring capability
+→ Leads to downtime, inefficiency, and reactive decision-making
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ System workflows, monitoring gaps, user roles
+02 — Strategy & Positioning
+ Direction: “Real-time clarity across every system”
+03 — Design System
+ Scalable dashboards, data components, cross-platform consistency
+Solution
+Heatriq enables:
+* Real-time system monitoring
+* Centralized dashboards & analytics
+* Instant alerts & notifications
+* Remote access via mobile
+* Full admin control over systems
+Core Features (Web)
+* Live Monitoring Dashboard — real-time data visualization
+* Analytics & Reports — trends, performance insights
+* Alerts Management — configure and track system alerts
+* System Control Panel — manage devices & operations
+* User & Role Management — admin-level access control
+Core Features (Mobile App)
+* Live Status View — monitor systems on the go
+* Push Notifications — instant alerts for critical events
+* Quick Actions — basic control & response actions
+* Compact Dashboards — simplified mobile insights
+* User Access Control — role-based visibility
+Target Audience
+* Operations & monitoring teams
+* System administrators
+* Industrial & facility managers
+* Businesses with real-time systems
+Design Approach
+* Clean, data-first interface
+* High readability & clarity
+* Fast, responsive interactions
+* Consistent web + mobile experience
+Figma
+https://www.figma.com/design/KjCEzK2dvcbB8XG10AEyCL/HEATRIQ-WEB?node-id=0-1&p=f&t=3ps3KNEYBNw6LaDA-0
+Outcome
+* Real-time system visibility
+* Faster response to issues
+* Improved operational control
+* Reduced downtime
+Future Scope
+* AI-based predictive monitoring
+* IoT device integrations
+* Advanced automation workflows
+* Custom reporting dashboards
+
+
+
+
+AI / Automation
+1. AI Voice Receptionist
+Intelligent front desk, powered by voice.
+Overview
+AI Voice Receptionist is a conversational AI system designed for healthcare clinics and professional spaces to handle incoming calls, automate bookings, and manage inquiries in real time.
+Voice AI · Healthcare Solution · Automation System · Dashboard
+Problem
+Clinics face:
+* Missed calls during peak hours
+* Overloaded front-desk staff
+* Manual appointment handling
+* Poor patient response experience
+→ Leads to lost patients, inefficiency, and delays
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Call flow analysis, clinic workflows, user pain points
+02 — Strategy & Positioning
+ Direction: “Always available. Always responsive.”
+03 — System Design
+ Conversational flows, AI logic, dashboard integration
+Solution
+The system enables:
+* 24/7 automated call handling
+* Natural human-like conversations
+* Appointment booking with real-time sync
+* Instant query resolution
+* Zero missed patient interactions
+Core Features
+* 24/7 Availability — handles calls anytime
+* Conversational AI — natural, human-like interaction
+* Intent Recognition — detects purpose of call instantly
+* Data Extraction — captures name, time, details
+* Real-Time Scheduling — auto-sync with calendar
+* Instant Responses — answers common queries
+System Interfaces
+* Admin Dashboard (Medicore Portal) — live conversation tracking
+* Scheduling System (HealthSync Pro) — real-time appointment updates
+Use Case
+Patient calls to book appointment:
+* AI understands request
+* Asks preferred time
+* Captures details
+* Confirms booking
+* Updates system instantly
+→ No manual input required
+Target Audience
+* Healthcare clinics
+* Hospitals
+* Professional service providers
+* High call-volume businesses
+Design Approach
+* Simple, human-like interaction
+* Fast and frictionless flows
+* Minimal UI with clear data visibility
+* Seamless system integration
+Figma
+????
+Outcome
+* Zero missed calls
+* Faster appointment booking
+* Reduced staff workload
+* Improved patient experience
+Future Scope
+* Multi-language voice support
+* AI sentiment detection
+* Deeper EHR integrations
+* Voice analytics & insights
+
+
+2. Automation Bot Dashboard
+Centralized control for intelligent workflows.
+Overview
+Automation Bot Dashboard is a centralized system designed to monitor, manage, and control multiple automated workflows (bots) in real time. It enables healthcare and administrative teams to operate a scalable digital workforce efficiently.
+Automation System · Web Dashboard · AI Workflows · Admin Panel
+Problem
+Organizations face:
+* Managing multiple automation workflows manually
+* Lack of visibility into bot performance
+* No centralized control system
+* Difficulty in tracking errors and updates
+→ Leads to inefficiency, errors, and poor automation reliability
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Workflow mapping, automation use cases, system gaps
+02 — Strategy & Positioning
+ Direction: “Automation with full visibility and control”
+03 — Design System
+ Grid-based dashboard, modular cards, real-time indicators
+Solution
+The dashboard enables:
+* Centralized bot management
+* Real-time monitoring & status tracking
+* Workflow control and execution
+* Collaboration between teams
+* Transparent automation processes
+Core Features
+System Overview (Header Metrics)
+* Total Bots
+* Active Bots
+* Approved / Passed Bots
+* Development Bots
+* Not Approved Bots
+→ Instant system health visibility
+Bot Management
+* Status Indicators — Active, Passed, Dev, New
+* Version Tracking — runtime & environment visibility
+* Run Controls — trigger/schedule executions
+* Edit & Documentation — update bot details
+* Attachments — logs & files access
+Collaboration & Feedback
+* Medical Feedback (Doctor)
+* Developer Feedback
+ → Ensures accuracy + continuous improvement
+Search & Controls
+   * Bot search & filtering
+   * Custom inputs (email, date range)
+   * Task-specific configurations
+Key Use Cases
+   * Digital signatures & approvals
+   * Patient data migration & syncing
+   * Automated reporting & calculations
+   * Email communication workflows
+   * AI-based document processing (computer vision)
+Target Audience
+   * Healthcare organizations
+   * Operations teams
+   * Automation engineers
+   * Admin & management staff
+Design Approach
+   * Clean, grid-based layout
+   * Data-first visual hierarchy
+   * Real-time status visibility
+   * Scalable modular system
+Figma
+????
+Outcome
+   * Centralized automation control
+   * Improved workflow efficiency
+   * Reduced manual workload
+   * Transparent system operations
+Future Scope
+   * AI-driven automation insights
+   * Error prediction & auto-recovery
+   * Workflow automation builder
+   * Advanced analytics dashboard
+
+
+   3. Medical Paperwork Automation
+From paper chaos to intelligent clarity.
+Overview
+Medical Paperwork Automation is an AI-powered system that converts handwritten medical documents into structured, searchable digital records. It uses advanced OCR and contextual AI to eliminate manual data entry and streamline healthcare workflows.
+AI OCR · Healthcare System · Data Extraction · Web Portal
+Problem
+Healthcare systems face:
+   * Manual data entry from handwritten records
+   * Illegible prescriptions and notes
+   * Delays in accessing patient data
+   * Risk of human error
+→ Leads to inefficiency, errors, and operational delays
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Paper-based workflows, data entry bottlenecks, error points
+02 — Strategy & Positioning
+ Direction: “Transforming paper into intelligent data”
+03 — System Design
+ AI OCR engine, structured data layers, clean dashboard interface
+Solution
+The system enables:
+   * Conversion of handwritten documents into digital data
+   * Context-aware extraction of medical information
+   * Secure storage and instant retrieval
+   * Seamless transition to a paperless workflow
+Core Features
+   * Advanced AI OCR — reads complex handwriting accurately
+   * Smart Data Extraction — identifies patients, diagnoses, medications
+   * High Accuracy Engine — reduces manual entry errors
+   * Searchable Records — instant access via digital database
+   * Secure System — compliant and safe data handling
+System Interface
+   * MedFlow Portal —
+   * Grid-based, minimal dashboard
+   * Status tracking (Completed, Pending, In Review)
+   * Fast search & filtering
+Key Use Cases
+   * Digitizing prescriptions & medical notes
+   * Extracting patient and treatment data
+   * Building searchable medical records
+   * Supporting clinical decision workflows
+Target Audience
+   * Hospitals & clinics
+   * Medical staff
+   * Healthcare administrators
+   * Digital health platforms
+Design Approach
+   * Minimal, clean interface
+   * Data-first layout
+   * Clear status indicators
+   * High readability & usability
+Figma
+??
+Outcome
+   * Eliminated manual data entry delays
+   * Reduced human error
+   * Faster access to patient data
+   * Improved workflow efficiency
+Future Scope
+   * EHR system integrations
+   * AI-based diagnosis assistance
+   * Multi-language handwriting support
+   * Predictive healthcare insights
+Ecosystem Note
+Works alongside:
+   * AI Voice Receptionist
+   * Automation Bot Dashboard
+→ Creating a fully automated, paperless clinic system
+      4. Kadima Security Services
+Secure operations. Intelligent control.
+Overview
+Kadima Security Services is a next-generation security workflow automation platform designed for the defence sector. It enables centralized monitoring, secure communication, and streamlined operational control across sensitive environments.
+Security Platform · Web App · Workflow Automation · Admin System
+Problem
+Security operations face:
+      * Disconnected monitoring systems
+      * Manual, error-prone workflows
+      * Limited real-time visibility
+      * High risk in handling sensitive data
+→ Leads to inefficiency, security gaps, and operational risks
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Security workflows, compliance needs, system gaps
+02 — Strategy & Positioning
+ Direction: “Maximum security with seamless control”
+03 — Design System
+ Secure, dashboard-first UI with structured workflows
+Solution
+Kadima enables:
+      * Centralized security monitoring
+      * Automated workflows and operations
+      * Secure communication channels
+      * Reliable data management and syncing
+Core Features
+      * Real-Time Monitoring — centralized dashboard oversight
+      * Secure Data Management — encrypted storage & syncing
+      * Video Communication — instant, secure calls
+      * Workflow Automation — reduce manual processes
+      * Access Control — role-based permissions & security
+Key Modules
+      * Dashboard — real-time system visibility
+      * Data Management — secure storage & tracking
+      * Communication — encrypted video & messaging
+      * Automation Engine — workflow execution & control
+      * Access Control System — permissions & user roles
+Target Audience
+      * Defence organizations
+      * Security agencies
+      * Enterprise security teams
+      * High-security facilities
+Design Approach
+      * Clean, high-security interface
+      * Data-focused layouts
+      * Minimal distractions, maximum clarity
+      * Scalable and robust system design
+Figma
+(To be added)
+Outcome
+      * Improved security operations
+      * Reduced manual workload
+      * Faster response and decision-making
+      * Enhanced data protection
+Future Scope
+      * AI-based threat detection
+      * Advanced surveillance integrations
+      * Predictive risk analytics
+      * Biometric & IoT integrations
+
+
+
+
+WEB DEVELOPMENT
+      1. FleetHub
+Smart fleet management made simple.
+Overview
+FleetHub is a comprehensive fleet management platform that enables organizations to monitor, manage, and optimize vehicle operations through real-time tracking and intelligent analytics.
+Fleet Management · SaaS Platform · Web Dashboard · Analytics System
+Problem
+Organizations struggle with:
+      * No real-time fleet visibility
+      * Inefficient route planning
+      * High fuel and operational costs
+      * Lack of centralized control
+→ Leads to delays, increased costs, and poor decision-making
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Fleet workflows, tracking gaps, operational inefficiencies
+02 — Strategy & Positioning
+ Direction: “Data-driven fleet intelligence”
+03 — Design System
+ Dashboard-first UI, map integration, scalable components
+Solution
+FleetHub enables:
+      * Real-time vehicle tracking
+      * Centralized fleet control
+      * Data-driven analytics & reporting
+      * Optimized routing and scheduling
+Core Features
+      * Real-Time Tracking — live GPS monitoring
+      * Route Optimization — AI-powered efficiency improvements
+      * Driver Management — profiles, performance, assignments
+      * Fuel & Maintenance Tracking — cost and service insights
+      * Analytics Dashboard — performance metrics & reports
+      * Smart Scheduling — automated planning & alerts
+Key Modules
+Vehicle Management
+      * Complete vehicle profiles
+      * Maintenance logs & service tracking
+      * Document management
+Driver Management
+      * Performance tracking
+      * Duty & availability management
+      * Vehicle assignment
+Fuel Analytics
+      * Consumption trends
+      * Cost breakdown
+      * Efficiency insights
+Maintenance System
+      * Automated scheduling
+      * Alerts & reminders
+      * Service history tracking
+Target Audience
+      * Logistics companies
+      * Fleet operators
+      * Enterprises with transport systems
+      * Operations teams
+Design Approach
+      * Clean, map-first dashboard
+      * Data-driven visual hierarchy
+      * High usability for large-scale systems
+      * Scalable SaaS design system
+Figma
+(To be added)
+Outcome
+      * Improved fleet visibility
+      * Reduced operational costs
+      * Optimized routes and performance
+      * Centralized control system
+Future Scope
+      * AI-based predictive maintenance
+      * Advanced route intelligence
+      * IoT integrations
+      * Real-time driver behavior tracking
+Impact Snapshot
+      * 10K+ vehicles managed
+      * 99% uptime reliability
+      * Up to 30% route optimization improvement
+
+
+      2. GX Tickets
+Premium ticketing. Seamless experiences.
+Overview
+GX Tickets is a SaaS-based ticketing platform designed to simplify event management while delivering a smooth booking experience for users. It combines modern UI with real-time analytics and scalable system design.
+SaaS Platform · Web & Mobile · UI/UX · Event Management
+Problem
+Event organizers face:
+      * Fragmented tools across platforms
+      * Complex event setup workflows
+      * Limited analytics and insights
+→ Leads to inefficiency, poor decision-making, and slow onboarding
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ User journeys, competitor platforms, workflow gaps
+02 — Strategy & Positioning
+ Direction: “Clarity meets control in event management”
+03 — Design System
+ Modern UI inspired by Stripe & Linear, scalable across web & mobile
+Solution
+GX Tickets enables:
+      * End-to-end event management
+      * Real-time ticketing analytics
+      * Secure and flexible payment handling
+      * Seamless attendee experience
+Core Features
+      * Event Management — create & manage events بسهولة
+      * Real-Time Analytics — sales, revenue, audience insights
+      * Secure Payments — multi-method, instant payouts
+      * Smart Ticketing — QR codes & smooth check-ins
+      * Marketing Tools — campaigns & promotions
+      * Customer Support — 24/7 assistance
+Platform Experience
+Web Platform
+      * Dashboard with event overview & analytics
+      * Event creation & management interface
+      * Contact & support system
+Mobile Experience
+      * Ticket access & booking
+      * QR-based entry system
+      * Real-time updates & notifications
+Target Audience
+      * Event organizers
+      * Businesses hosting events
+      * Ticketing platforms
+      * Entertainment & conference industry
+Design Approach
+      * Minimal, premium interface
+      * Strong visual hierarchy
+      * Smooth user flows
+      * Consistent design system
+Design System (Highlights)
+      * Primary: #1A1A1A
+      * Accent: #FFC107
+      * Typography: Inter
+      * Grid: 8px system
+      * Style: Clean, modern, high-contrast
+Figma / Links
+(To be added)
+Outcome
+      * Faster event setup
+      * Improved user experience
+      * Better decision-making through analytics
+      * Increased engagement & conversions
+Impact
+      * 5,000+ organizations
+      * 4.8★ user rating
+      * 2K+ events launched
+      * 40% increase in sales
+Key Learnings
+      * Simplicity reduces onboarding friction
+      * Strong design systems enable scalability
+      * Real-time data drives better outcomes
+Future Scope
+      * Advanced analytics dashboards
+      * AI-based pricing optimization
+      * Deeper marketing integrations
+      * Multi-platform expansion
+      3. VIvast
+Smart fitness management, simplified.
+Overview
+VIvast is a comprehensive gym and fitness management platform that centralizes operations like member management, billing, check-ins, POS, and analytics into a single system.
+SaaS Platform · Web App · Fitness Management · Dashboard
+Problem
+Gyms struggle with:
+      * Fragmented tools across operations
+      * Manual, time-consuming processes
+      * Lack of real-time business insights
+→ Leads to inefficiency, time loss, and poor decision-making
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Gym workflows, operational gaps, user pain points
+02 — Strategy & Positioning
+ Direction: “All-in-one control for modern fitness businesses”
+03 — Design System
+ Clean, scalable UI with strong hierarchy and fast workflows
+Solution
+VIvast enables:
+      * Centralized gym operations
+      * Automated billing & invoicing
+      * Fast biometric check-ins
+      * Real-time analytics & insights
+      * Integrated POS system
+Core Features
+      * Member Management — profiles, tracking, history
+      * Biometric Check-in — fast attendance system
+      * Billing & Invoicing — automated payments
+      * POS System — integrated sales management
+      * Staff Management — scheduling & performance
+      * Analytics Dashboard — real-time business insights
+Key Modules
+      * Dashboard — real-time metrics & overview
+      * Check-in System — biometric & manual entry
+      * Billing & POS — payments & transactions
+      * Invoice Management — tracking & automation
+      * Staff Management — roles & scheduling
+      * Settings & Add-ons — system configuration
+Target Audience
+      * Gym owners
+      * Fitness centers
+      * Wellness studios
+      * Operations staff
+Design Approach
+      * Clean, structured interface
+      * Fast and efficient workflows
+      * Responsive across devices
+      * Data-driven decision support
+Design System (Highlights)
+      * Primary: #0F1729
+      * Accent: #DC2626
+      * Neutral: White & Light Gray
+      * Typography: Bold, high readability
+      * Style: Minimal, modern, dashboard-focused
+Figma
+(To be added)
+Outcome
+      * Unified gym operations
+      * Reduced manual workload
+      * Faster staff workflows
+      * Improved business visibility
+Impact
+      * 100% unified operations
+      * 80% time saved
+      * Real-time analytics enabled
+Future Scope
+      * Mobile app expansion
+      * AI-based member insights
+      * Wearable integrations
+      * Automated marketing tools
+
+
+      4. ProjecX
+Manage projects. Simplify work.
+Overview
+ProjecX is an all-in-one project management platform designed to help modern teams collaborate, track progress, and deliver projects efficiently across web and mobile.
+SaaS Platform · Web & Mobile · Project Management · Collaboration
+Problem
+Teams struggle with:
+      * Fragmented tools for tasks and communication
+      * Poor collaboration and missed updates
+      * Lack of visibility into project progress
+→ Leads to delays, confusion, and reduced productivity
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Team workflows, collaboration gaps, productivity challenges
+02 — Strategy & Positioning
+ Direction: “One platform for complete project control”
+03 — Design System
+ Modern, minimal UI with scalable components across devices
+Solution
+ProjecX enables:
+      * Centralized project and task management
+      * Real-time team collaboration
+      * Visual progress tracking
+      * Seamless cross-platform experience
+Core Features
+      * Task Management — create, assign, track workflows
+      * Team Collaboration — chat, comments, file sharing
+      * Progress Tracking — dashboards & performance insights
+      * Smart Notifications — customizable alerts
+      * Analytics & Reports — productivity & project data
+      * Cross-Platform Sync — web, mobile, tablet
+Platform Experience
+Web Platform
+      * Project dashboards & analytics
+      * Task workflows & team management
+      * Centralized communication
+Mobile Experience
+      * On-the-go task tracking
+      * Real-time notifications
+      * Quick updates & collaboration
+Workflow
+      1. Create Project
+      2. Assign Tasks
+      3. Track Progress
+      4. Complete & Analyze
+Target Audience
+      * Startups & tech teams
+      * Product managers
+      * Agencies
+      * Remote teams
+Design Approach
+      * Clean, minimal interface
+      * Collaboration-first design
+      * Fast, intuitive workflows
+      * Consistent cross-platform experience
+Design System (Highlights)
+      * Primary: #000000
+      * Secondary: #111827
+      * Accent: Purple (#9333EA), Blue (#2563EB)
+      * Typography: Bold, modern hierarchy
+      * Style: Minimal, high-contrast SaaS UI
+Figma / Links
+(To be added)
+Outcome
+      * Improved team collaboration
+      * Faster project delivery
+      * Better workflow visibility
+      * Increased productivity
+Impact
+      * 10K+ active teams
+      * 50K+ projects completed
+      * 98% customer satisfaction
+Future Scope
+      * AI-powered task automation
+      * Advanced team analytics
+      * Workflow customization engine
+      * Integration with third-party tools
+
+
+5. Builder Builder Pro
+Smarter construction. Better control.
+Overview
+Builder Builder Pro is an all-in-one construction management platform designed to streamline project planning, collaboration, and cost tracking. It combines real-world construction workflows with modern digital tools for efficient project delivery.
+SaaS Platform · Web & Mobile · Construction Management · Dashboard
+Problem
+Construction teams face:
+      * Disconnected tools for planning and tracking
+      * Poor communication across teams
+      * Lack of real-time project visibility
+      * Manual invoicing and cost management
+→ Leads to delays, budget overruns, and inefficiency
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Construction workflows, team coordination gaps, cost tracking issues
+02 — Strategy & Positioning
+ Direction: “Built for precision, powered by simplicity”
+03 — Design System
+ Dashboard-first UI with scalable components and mobile responsiveness
+Solution
+Builder Builder Pro enables:
+      * Centralized project management
+      * Real-time collaboration across teams
+      * Cost and invoice tracking
+      * Scalable workflows for projects of any size
+Core Features
+      * Project Dashboard — track progress, costs, and tasks
+      * Real-Time Collaboration — live updates across teams
+      * Task & Team Management — assign and monitor work
+      * Invoice Management — generate and download records
+      * Scalable System — adaptable to project size
+      * Secure Access — controlled team environments
+Platform Experience
+Web Platform
+      * Full project dashboards
+      * Cost tracking & reporting
+      * Team and workflow management
+Mobile Experience
+      * On-site updates
+      * Real-time notifications
+      * Quick task tracking & communication
+Target Audience
+      * Construction companies
+      * Project managers
+      * Contractors
+      * Field teams
+Design Approach
+      * Clean, structured dashboards
+      * High clarity for complex data
+      * Fast, efficient workflows
+      * Mobile-first usability for field teams
+Figma
+(To be added)
+Outcome
+      * Improved project visibility
+      * Better team coordination
+      * Reduced delays and cost overruns
+      * Faster decision-making
+Future Scope
+      * AI-based cost prediction
+      * Equipment tracking integration
+      * Advanced reporting dashboards
+      * IoT integration for site monitoring
+6. CircuitHub
+Smart electronics shopping, simplified.
+Overview
+CircuitHub is a modern e-commerce platform for electronics, designed to deliver a fast, intuitive shopping experience while providing powerful admin tools for product and order management.
+E-commerce Platform · Web App · Next.js · Admin Dashboard
+Problem
+Online stores face:
+      * Slow and unresponsive interfaces
+      * Poor product organization
+      * Difficult order and inventory management
+      * Limited admin control
+→ Leads to poor user experience and inefficient operations
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ User shopping behavior, admin workflows, performance gaps
+02 — Strategy & Positioning
+ Direction: “Fast, structured, and scalable e-commerce”
+03 — Design System
+ Clean UI, optimized layouts, responsive components
+Solution
+CircuitHub enables:
+      * Seamless product browsing and discovery
+      * Centralized product and order management
+      * Fast, responsive performance across devices
+      * Scalable e-commerce operations
+Core Features
+      * Product Management — add, edit, manage inventory
+      * Collections System — group products for better navigation
+      * Order Management — track and manage orders بسهولة
+      * Customer Management — user data and activity tracking
+      * Responsive Design — optimized for all devices
+      * Performance Optimization — fast loading and smooth UX
+Platform Experience
+User Experience
+      * Fast product browsing
+      * Clean category navigation
+      * Smooth checkout flow
+Admin Panel
+      * Product & inventory control
+      * Order tracking & management
+      * Collection-based organization
+Target Audience
+      * Electronics retailers
+      * E-commerce businesses
+      * Online store owners
+      * Tech product sellers
+Design Approach
+      * Minimal, clean interface
+      * Fast and responsive experience
+      * Clear product hierarchy
+      * Scalable admin system
+Figma
+(To be added)
+Outcome
+      * Improved shopping experience
+      * Faster navigation and discovery
+      * Efficient store management
+      * Better performance and engagement
+Future Scope
+      * AI-based product recommendations
+      * Advanced search & filtering
+      * Payment gateway expansion
+      * Mobile app integration
+
+
+7. QR DoorMan
+Secure access. Smart control.
+Overview
+QR DoorMan is a secure access control system designed for defence environments, enabling QR-based entry, centralized monitoring, and encrypted communication across web and mobile platforms.
+Security System · Web & Mobile · Access Control · Automation Platform
+Problem
+High-security environments face:
+      * Manual and outdated entry systems
+      * Lack of real-time access monitoring
+      * Security risks in data and communication
+      * Inefficient access control workflows
+→ Leads to security vulnerabilities and operational inefficiencies
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Access control workflows, security risks, system gaps
+02 — Strategy & Positioning
+ Direction: “Fast, secure, and controlled access”
+03 — Design System
+ Minimal, secure interface with centralized control
+Solution
+QR DoorMan enables:
+      * QR-based secure entry system
+      * Centralized monitoring and control
+      * Encrypted communication and data handling
+      * Automated workflows for efficiency
+Core Features
+      * QR Access System — secure entry via QR codes
+      * Central Dashboard — real-time monitoring
+      * Secure Data Sync — protected storage & access
+      * Video Communication — instant team coordination
+      * Workflow Automation — reduce manual tasks
+      * Access Management — role-based permissions
+Key Modules
+      * Access Control — QR-based entry validation
+      * Monitoring Dashboard — live access logs & status
+      * Communication System — secure video & messaging
+      * Automation Engine — process control & alerts
+      * Data Management — encrypted storage & syncing
+Target Audience
+      * Defence organizations
+      * Security agencies
+      * High-security facilities
+      * Enterprise security teams
+Design Approach
+      * Clean, security-first interface
+      * High clarity with minimal distractions
+      * Fast and reliable workflows
+      * Scalable system architecture
+Figma
+(To be added)
+Outcome
+      * Enhanced access security
+      * Faster entry management
+      * Reduced manual errors
+      * Improved operational control
+Future Scope
+      * Biometric integration
+      * AI-based threat detection
+      * IoT-enabled smart access
+      * Advanced audit & reporting systems
+
+
+8. Metron Design
+Smarter architecture. Streamlined delivery.
+Overview
+Metron Design is an architectural project management platform built to streamline design, collaboration, and construction workflows. It enables professionals to manage projects efficiently from planning to execution.
+SaaS Platform · Web App · Architecture · Project Management
+Problem
+Architecture teams face:
+      * Disconnected tools across design and construction
+      * Poor collaboration between stakeholders
+      * Difficulty managing project data and timelines
+      * Manual workflows causing delays and errors
+→ Leads to inefficiency, miscommunication, and project delays
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Architect workflows, collaboration gaps, project lifecycle issues
+02 — Strategy & Positioning
+ Direction: “Unified control for modern architecture workflows”
+03 — Design System
+ Clean, structured interface with scalable project modules
+Solution
+Metron Design enables:
+      * Centralized project management
+      * Seamless collaboration across teams
+      * Organized design and project data
+      * Automated workflows for efficiency
+Core Features
+      * Project Management — plan, track, and deliver projects
+      * Collaboration Tools — team & client communication
+      * Data Organization — structured design & project data
+      * Workflow Automation — reduce manual effort
+      * Progress Tracking — real-time insights and updates
+      * Secure Sharing — controlled data access
+Platform Experience
+Web Platform
+      * Project dashboards & timelines
+      * Design and document management
+      * Collaboration & communication tools
+Mobile Experience (Optional Extension)
+      * On-site updates
+      * Quick task tracking
+      * Real-time notifications
+Target Audience
+      * Architects
+      * Project managers
+      * Construction firms
+      * Urban development teams
+Design Approach
+      * Clean, minimal interface
+      * Structured data hierarchy
+      * Collaboration-first workflows
+      * Scalable system design
+Figma
+(To be added)
+Outcome
+      * Improved project efficiency
+      * Better team collaboration
+      * Faster decision-making
+      * Reduced errors and delays
+Future Scope
+      * BIM integrations
+      * AI-based design insights
+      * Advanced project analytics
+      * IoT-enabled construction tracking
+
+
+9. Platinum Medical Evaluations
+Smarter healthcare. Better outcomes.
+Overview
+Platinum Medical Evaluations is a healthcare analytics and management platform designed to improve patient care, streamline clinical workflows, and enable data-driven decision-making.
+Healthcare Platform · Web App · Analytics System · Patient Management
+Problem
+Healthcare providers face:
+      * Inefficient patient management systems
+      * Limited access to real-time data and insights
+      * Manual workflows causing delays and errors
+      * Lack of seamless doctor–patient interaction
+→ Leads to reduced care quality and operational inefficiency
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Clinical workflows, patient journey, system inefficiencies
+02 — Strategy & Positioning
+ Direction: “Connected care through intelligent systems”
+03 — Design System
+ Clean, data-driven UI with structured healthcare workflows
+Solution
+Platinum enables:
+      * Centralized patient management
+      * Remote healthcare access
+      * Automated clinical workflows
+      * Data-driven reporting and insights
+Core Features
+      * Remote Consultations — accessible virtual care
+      * Health Analytics — detailed reports & insights
+      * Appointment Scheduling — optimized resource planning
+      * Patient Records — secure and organized data
+      * Workflow Automation — reduce manual effort and errors
+Key Modules
+      * Dashboard — patient data & system overview
+      * Appointments — scheduling & management
+      * Patient Records — secure data handling
+      * Analytics — reports & insights
+      * Automation — workflow execution
+Target Audience
+      * Healthcare providers
+      * Clinics & hospitals
+      * Medical administrators
+      * Digital health platforms
+Design Approach
+      * Clean, minimal healthcare UI
+      * Data-first layout
+      * High readability & clarity
+      * Seamless patient–provider interaction
+Figma
+(To be added)
+Outcome
+      * Improved patient care delivery
+      * Faster clinical workflows
+      * Reduced administrative burden
+      * Better data-driven decisions
+Future Scope
+      * AI-based diagnosis support
+      * EHR integrations
+      * Predictive health analytics
+      * Multi-platform expansion
+
+
+
+
+10.HouseCall MD
+Connected care. Smarter operations.
+Overview
+HouseCall MD is a comprehensive healthcare management platform that centralizes appointments, patient records, telehealth, and analytics into one unified system—enabling faster, safer, and more patient-focused care.
+Healthcare Platform · Web App · Telehealth · Patient Management
+Problem
+Healthcare providers face:
+      * Disconnected systems for appointments, records, and communication
+      * High administrative workload
+      * Limited coordination between teams
+      * Lack of real-time insights
+→ Leads to delays, inefficiency, and reduced quality of care
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Clinical workflows, patient journey, system inefficiencies
+02 — Strategy & Positioning
+ Direction: “One platform for connected healthcare delivery”
+03 — Design System
+ Clean, scalable UI with structured healthcare modules
+Solution
+HouseCall MD enables:
+      * Centralized patient and appointment management
+      * Secure telehealth consultations
+      * Automated workflows and communication
+      * Data-driven healthcare decisions
+Core Features
+      * Telehealth — secure virtual consultations
+      * Appointments — streamlined scheduling & management
+      * Patient Records — centralized and accessible data
+      * Analytics & Reports — actionable clinical insights
+      * Workflow Automation — reduce manual tasks
+      * Secure Communication — safe staff–patient interaction
+Key Modules
+      * Dashboard — overview of operations & metrics
+      * Appointments — scheduling and tracking
+      * Patient Database — records and history
+      * Telehealth System — video consultations
+      * Analytics — reports and insights
+      * Automation — workflow and communication tools
+Target Audience
+      * Hospitals
+      * Clinics
+      * Healthcare providers
+      * Medical administrators
+Design Approach
+      * Clean, patient-centric interface
+      * Data-first layouts
+      * Simple and efficient workflows
+      * High usability across roles
+Figma
+(To be added)
+Outcome
+      * Faster patient care delivery
+      * Improved clinical coordination
+      * Reduced administrative workload
+      * Better decision-making through analytics
+Future Scope
+      * AI-assisted diagnosis support
+      * EHR integrations
+      * Predictive healthcare analytics
+      * Mobile-first expansion
+
+
+11. Supportive Care Specialists
+Efficient scheduling. Better patient care.
+Overview
+Supportive Care Specialists is a healthcare management platform focused on appointment scheduling, patient records, telehealth, and workflow automation. It enables providers to deliver efficient, high-quality, patient-centered care.
+Healthcare Platform · Web App · Scheduling System · Telehealth
+Problem
+Healthcare providers face:
+      * Inefficient appointment scheduling
+      * Disconnected patient records
+      * Limited access to telehealth services
+      * Manual workflows causing delays
+→ Leads to longer wait times, poor coordination, and reduced care quality
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Clinical workflows, scheduling gaps, patient journey
+02 — Strategy & Positioning
+ Direction: “Streamlined care through connected systems”
+03 — Design System
+ Clean, scalable UI with structured healthcare modules
+Solution
+Supportive Care Specialists enables:
+      * Efficient appointment management
+      * Centralized patient records
+      * Secure telehealth consultations
+      * Automated workflows and communication
+Core Features
+      * Appointment Scheduling — manage bookings efficiently
+      * Telehealth — remote consultations
+      * Patient Records (EHR) — secure and centralized data
+      * Analytics & Reports — data-driven insights
+      * Workflow Automation — reduce manual processes
+      * Secure Communication — protected interactions
+Platform Experience
+Web Platform
+      * Scheduling dashboard
+      * Patient data management
+      * Reporting and analytics
+Mobile Experience (Extension)
+      * Appointment tracking
+      * Notifications and updates
+      * Quick access to patient info
+Target Audience
+      * Hospitals
+      * Clinics
+      * Healthcare providers
+      * Medical administrators
+Design Approach
+      * Clean, patient-focused interface
+      * Data-first layouts
+      * Simple and efficient workflows
+      * High usability across roles
+Figma
+(To be added)
+Outcome
+      * Faster appointment handling
+      * Improved patient experience
+      * Reduced administrative workload
+      * Better clinical coordination
+Future Scope
+      * AI-based scheduling optimization
+      * EHR integrations
+      * Predictive healthcare analytics
+      * Mobile-first expansion
+
+
+
+
+12. Vital Heal
+Smarter wound care. Better healing.
+Overview
+Vital Heal is a wound care management platform designed to streamline treatment workflows, improve clinical efficiency, and enhance patient outcomes through digital healthcare tools.
+Healthcare Platform · Web App · Wound Care · EHR System
+Problem
+Healthcare providers face:
+      * Delays in wound treatment and follow-ups
+      * Inefficient documentation and tracking
+      * Limited patient engagement
+      * Manual workflows and compliance challenges
+→ Leads to slower recovery and reduced care efficiency
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Clinical workflows, wound care processes, documentation gaps
+02 — Strategy & Positioning
+ Direction: “Faster healing through intelligent care systems”
+03 — Design System
+ Clean, data-driven UI with structured healthcare workflows
+Solution
+Vital Heal enables:
+      * Efficient wound care management
+      * Real-time monitoring and tracking
+      * Remote consultations for accessibility
+      * Automated workflows and secure communication
+Core Features
+      * Wound Care Tracking — monitor treatment progress
+      * Telehealth — remote consultations and follow-ups
+      * Patient Records (EHR) — centralized medical data
+      * Appointment Scheduling — streamlined booking
+      * Analytics & Reports — performance and trend insights
+      * Workflow Automation — reduce manual effort
+Platform Experience
+Web Platform
+      * Clinical dashboards and monitoring
+      * Patient records and treatment data
+      * Reporting and analytics
+Mobile Experience (Extension)
+      * On-the-go patient updates
+      * Real-time alerts and notifications
+      * Quick access to care data
+Target Audience
+      * Hospitals
+      * Clinics
+      * Wound care specialists
+      * Healthcare providers
+Design Approach
+      * Clean, clinical interface
+      * Data-first layouts
+      * Simple and efficient workflows
+      * High readability for medical use
+Figma
+(To be added)
+Outcome
+      * Faster treatment cycles
+      * Improved patient outcomes
+      * Reduced administrative workload
+      * Better clinical efficiency
+Future Scope
+      * AI-based wound analysis
+      * EHR integrations
+      * Predictive healing insights
+      * Mobile-first expansion
+
+
+13. MediTask Pro
+Automate care. Simplify workflows.
+Overview
+MediTask Pro is a healthcare workflow automation platform designed to streamline clinical operations, improve communication, and enhance patient care across web and mobile.
+Healthcare Platform · Web & Mobile · Workflow Automation · Patient Management
+Problem
+Healthcare providers face:
+      * Manual administrative tasks
+      * Inefficient communication between staff and patients
+      * Disorganized patient records
+      * Complex scheduling workflows
+→ Leads to delays, errors, and reduced patient satisfaction
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Clinical workflows, communication gaps, operational inefficiencies
+02 — Strategy & Positioning
+ Direction: “Automation-driven healthcare efficiency”
+03 — Design System
+ Clean, scalable UI with structured healthcare workflows
+Strategy
+Web & Mobile Application
+ Unified experience across devices to ensure accessibility, real-time updates, and seamless workflow management for healthcare providers and patients
+Solution
+MediTask Pro enables:
+      * Automated healthcare workflows
+      * Centralized patient data management
+      * Seamless communication and consultations
+      * Efficient scheduling and task handling
+Core Features
+      * Appointment Scheduling — simple and efficient booking
+      * Patient Records — secure storage and access
+      * Prescription Management — automated reminders
+      * Telehealth — virtual consultations
+      * Task Management — customizable workflows
+Platform Experience
+Web Platform
+      * Administrative dashboards
+      * Workflow and task management
+      * Patient data and reporting
+Mobile Experience
+      * Real-time updates
+      * Notifications and reminders
+      * Quick access to patient information
+Target Audience
+      * Hospitals
+      * Clinics
+      * Healthcare providers
+      * Medical administrators
+Design Approach
+      * Clean, intuitive interface
+      * Automation-first workflows
+      * Data clarity and accessibility
+      * Consistent cross-platform experience
+Figma
+(To be added)
+Outcome
+      * Reduced administrative workload
+      * Improved patient communication
+      * Faster clinical workflows
+      * Enhanced patient satisfaction
+Future Scope
+      * AI-based workflow optimization
+      * EHR integrations
+      * Predictive healthcare insights
+      * Advanced automation tools
+
+
+14. Vivast (Fitness Platform)
+Build strength. Recover smarter.
+Overview
+Vivast is a health and performance platform focused on strength training, rehabilitation, and personalized coaching. It combines expert guidance, smart technology, and a mobile-first experience to help users achieve long-term fitness and recovery goals.
+Fitness Platform · Mobile App · Health Coaching · AI Integration
+Problem
+Users face:
+      * Lack of personalized fitness and recovery plans
+      * Limited access to expert guidance
+      * Disconnected health and training systems
+      * Inconsistent motivation and progress tracking
+→ Leads to slow progress and ineffective training
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ User fitness journeys, recovery needs, coaching gaps
+02 — Strategy & Positioning
+ Direction: “Performance-focused, personalized fitness”
+03 — Design System
+ Clean, motivating UI with structured fitness flows
+Strategy
+Mobile App · AI · Neural Networks
+ Smart system designed to deliver personalized training, recovery insights, and adaptive fitness guidance using intelligent data models
+Solution
+Vivast enables:
+      * Personalized fitness and recovery plans
+      * Expert-guided coaching experience
+      * Smart progress tracking and insights
+      * Community-driven support system
+Core Features
+      * 24/7 Gym Access — flexible training availability
+      * Personalized Programs — goal-based training plans
+      * Expert Collaboration — trainers & physical therapists
+      * Exercise Library — 5,000+ guided exercises
+      * Progress Tracking — monitor performance and recovery
+      * Flexible Membership — no contracts, no hidden fees
+Platform Experience
+Mobile Experience
+      * Workout tracking and guidance
+      * Exercise library and plans
+      * Progress insights and updates
+Target Audience
+      * Fitness enthusiasts
+      * Athletes
+      * Individuals in rehabilitation
+      * Health-conscious users
+Design Approach
+      * Clean, energetic interface
+      * Motivation-driven UX
+      * Simple navigation and tracking
+      * Personalized user experience
+Client
+AIX Team
+Figma
+(To be added)
+Outcome
+      * Improved fitness performance
+      * Faster recovery cycles
+      * Higher user engagement
+      * Consistent progress tracking
+Future Scope
+      * AI-based performance optimization
+      * Wearable device integration
+      * Advanced health analytics
+      * Community and coaching expansion
+
+
+15. Vanguard
+Real-time manufacturing. Intelligent control.
+Overview
+Vanguard is a next-generation manufacturing monitoring platform designed to provide real-time visibility, device control, and secure communication for industrial operations. It enables teams to monitor PCB data, analyze performance, and respond instantly through a centralized system.
+Manufacturing Platform · Web & Mobile · IoT Monitoring · Control System
+Problem
+Manufacturing teams face:
+      * Limited real-time visibility of operations
+      * Delayed response to system issues
+      * Scattered data across systems
+      * Lack of secure device communication
+→ Leads to downtime, inefficiency, and slow decision-making
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Manufacturing workflows, monitoring gaps, device control challenges
+02 — Strategy & Positioning
+ Direction: “Live data. Instant control.”
+03 — Design System
+ Data-driven dashboards with real-time visualization and control
+Strategy
+Mobile App · AI · Neural Networks
+ Smart monitoring system designed for real-time analytics, predictive insights, and intelligent device control
+Solution
+Vanguard enables:
+      * Real-time monitoring of manufacturing systems
+      * Secure data storage and synchronization
+      * Direct device control for faster response
+      * Visual insights for better decision-making
+Core Features
+      * Real-Time Dashboard — centralized monitoring system
+      * Data Sync (Firebase) — secure real-time database
+      * PCB Data Visualization — live graphs and insights
+      * Device Control — relay-based system control
+      * Secure Communication — encrypted data handling
+Platform Experience
+Web Platform
+      * Monitoring dashboards
+      * Data visualization and analytics
+      * Device control interface
+Mobile Experience
+      * Real-time alerts and updates
+      * On-the-go monitoring
+      * Quick control actions
+Target Audience
+      * Manufacturing companies
+      * Industrial operations teams
+      * IoT system managers
+      * Engineers and technicians
+Design Approach
+      * Clean, data-focused interface
+      * Real-time visualization priority
+      * Minimal distractions, high clarity
+      * Fast and responsive interactions
+Client
+AIX Team
+Figma
+(To be added)
+Outcome
+      * Reduced operational downtime
+      * Faster response to system issues
+      * Improved manufacturing efficiency
+      * Better data-driven decisions
+Future Scope
+      * AI-based predictive maintenance
+      * Advanced IoT integrations
+      * Automated anomaly detection
+      * Scalable industrial analytics
+MOBILE APPS
+      1. Doxafar
+Smart care for healthier pets.
+Overview
+Doxafar is a pet health monitoring mobile application designed to help owners track, manage, and improve the well-being of their pets. It combines real-time health tracking, environmental monitoring, and smart device control into a single, easy-to-use platform.
+Mobile App · IoT Integration · Pet Health · Monitoring System
+Problem
+Pet owners face:
+      * Lack of real-time health monitoring
+      * Difficulty maintaining optimal pet environments
+      * Scattered pet care information
+      * Delayed response to health issues
+→ Leads to poor pet care management and increased health risks
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Pet care routines, monitoring gaps, device integration needs
+02 — Strategy & Positioning
+ Direction: “Connected care for smarter pet health”
+03 — Design System
+ Clean, friendly UI with real-time data and IoT integration
+Solution
+Doxafar enables:
+      * Real-time pet health monitoring
+      * Smart environmental control via Bluetooth
+      * Centralized pet data management
+      * Alerts and insights for proactive care
+Core Features
+      * Pet Profiles — add and manage pet information
+      * Health Monitoring — track temperature & conditions
+      * Environment Control — Bluetooth-based device control
+      * Alerts & Notifications — real-time health updates
+      * Newsfeed — pet care tips and updates
+      * Integrated Shop — browse and purchase pet supplies
+Platform Experience
+Mobile Experience
+      * Real-time monitoring dashboard
+      * Device control interface
+      * Quick alerts and updates
+Target Audience
+      * Pet owners
+      * Animal care enthusiasts
+      * Smart home users with pets
+      * Veterinary support users
+Design Approach
+      * Clean, friendly interface
+      * Real-time data visibility
+      * Simple and intuitive controls
+      * Seamless device interaction
+Figma
+(To be added)
+Outcome
+      * Improved pet health monitoring
+      * Better environmental control
+      * Faster response to health issues
+      * Simplified pet care management
+Future Scope
+      * AI-based health predictions
+      * Wearable pet device integration
+      * Veterinary consultation features
+      * Advanced analytics dashboard
+
+
+      2. MediMinder
+Never miss a dose.
+Overview
+MediMinder is a medication management mobile application designed to improve adherence through smart reminders, tracking, and device integration. It helps patients and healthcare providers manage medication schedules efficiently and reliably.
+Mobile App · Healthcare · Medication Tracking · IoT Integration
+Problem
+Patients face:
+      * Missed or incorrect medication doses
+      * Complex medication schedules
+      * Lack of reminders and tracking
+      * Poor visibility of medicine stock
+→ Leads to health risks and reduced treatment effectiveness
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Patient routines, adherence challenges, device usage
+02 — Strategy & Positioning
+ Direction: “Simple, reliable medication management”
+03 — Design System
+ Clean, accessible UI with focus on clarity and alerts
+Solution
+MediMinder enables:
+      * Smart medication scheduling
+      * Timely reminders and alerts
+      * Bluetooth-based device integration
+      * Real-time tracking of medicine usage
+Core Features
+      * Medication Tracking — organize and manage medicines
+      * Smart Reminders — alarms with sound & vibration
+      * Bluetooth Integration — sync with connected devices
+      * Dark Mode — comfortable low-light experience
+      * Stock Monitoring — track medicine levels & refills
+Platform Experience
+Mobile Experience
+      * Daily medication dashboard
+      * Reminder notifications & alerts
+      * Easy tracking and updates
+Target Audience
+      * Patients with regular medication needs
+      * Elderly users
+      * Healthcare providers
+      * Caregivers
+Design Approach
+      * Simple and accessible interface
+      * High clarity for critical actions
+      * Minimal interaction flow
+      * Reliable notification system
+Figma
+(To be added)
+Outcome
+      * Improved medication adherence
+      * Reduced missed doses
+      * Better health management
+      * Simplified daily routines
+Future Scope
+      * AI-based adherence insights
+      * Integration with wearable devices
+      * Doctor connectivity features
+      * Advanced health tracking
+
+
+      3.  Athliix
+Fitness, gamified.
+Overview
+Athliix is a gamified fitness mobile application that transforms workouts into interactive challenges with real-time competition, rewards, and personalized training. It motivates users to stay consistent by combining fitness with social and game-like experiences.
+Mobile App · Fitness Platform · Gamification · Social Experience
+Problem
+Users struggle with:
+      * Lack of motivation in fitness routines
+      * Boring and repetitive workouts
+      * No real-time engagement or competition
+      * Inconsistent progress tracking
+→ Leads to low engagement and poor fitness consistency
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ User motivation patterns, fitness habits, engagement gaps
+02 — Strategy & Positioning
+ Direction: “Make fitness competitive, fun, and rewarding”
+03 — Design System
+ Energetic, engaging UI with gamified elements and social flows
+Strategy
+Mobile App · Gamification · Social Interaction
+ Designed to increase engagement through competition, rewards, and personalized fitness experiences
+Solution
+Athliix enables:
+      * Gamified workout experiences
+      * Real-time challenges and competition
+      * Personalized fitness and progress tracking
+      * Social engagement and motivation
+Core Features
+      * Personalized Workouts — goal-based training plans
+      * Live Challenges — real-time competitive sessions
+      * Leaderboards — track rankings and performance
+      * Progress Tracking — monitor fitness growth
+      * Rewards & Badges — achievements and milestones
+      * Nutrition Tips — expert guidance for better results
+Platform Experience
+Mobile Experience
+      * Workout tracking and challenges
+      * Leaderboards and social interaction
+      * Rewards and progress insights
+Target Audience
+      * Fitness enthusiasts
+      * Gamification-driven users
+      * Beginners seeking motivation
+      * Social fitness communities
+Design Approach
+      * Energetic and engaging UI
+      * Gamified interaction patterns
+      * Clear progress visualization
+      * Social-first experience
+Client
+AIX Team
+Figma
+(To be added)
+Outcome
+      * Increased user engagement
+      * Higher workout consistency
+      * Stronger motivation through competition
+      * Improved fitness results
+Future Scope
+      * AI-based fitness coaching
+      * Wearable device integration
+      * Advanced social features
+      * Real-time performance analytics
+
+
+
+
+
+
+
+
+HARDWARE PROJECTS
+
+
+      1. Public Announcement Device
+Clear communication. Automated precision.
+Overview
+Public Announcement Device is a hardware-based audio communication system designed to deliver clear announcements along with an automated Azaan scheduling system. It combines reliable hardware with smart connectivity to ensure consistent audio broadcasting in real-time environments.
+Hardware Device · IoT System · Audio Communication · Embedded System
+Problem
+Organizations face:
+      * Manual dependency for repeated announcements
+      * Inconsistent prayer call scheduling
+      * Poor audio clarity in large environments
+      * Lack of centralized and automated communication
+→ Leads to inefficiency, missed schedules, and communication gaps
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ Communication needs, audio coverage challenges, scheduling gaps
+02 — Strategy & Positioning
+ Direction: “Automated communication with reliable audio delivery”
+03 — System Design
+ Embedded hardware system with scheduling logic and wireless control
+Solution
+The system enables:
+      * Automated Azaan playback at preset times
+      * Manual announcements for alerts and messages
+      * Consistent and high-quality audio output
+      * Wireless connectivity for control and updates
+Core Features
+      * Auto Azaan Scheduler — time-based automated playback
+      * Manual Announcement Mode — real-time audio broadcasting
+      * High-Quality Audio Output — clear sound coverage
+      * WiFi Connectivity — remote control and configuration
+      * Status Indicators — LED-based device monitoring
+Technical Specifications
+      * Input Voltage — 12V DC, 2A
+      * WiFi — 802.11 b/g/n (2.4GHz)
+      * Processor — Dual-Core
+      * Audio Output — 3.5mm Stereo Jack
+      * Operating Temperature — 0°C to 40°C
+      * Indicators — Multi-color LED for real-time status
+Use Cases
+      * Mosques — automated Azaan and announcements
+      * Schools & Colleges — daily notices and alerts
+      * Offices — internal communication
+      * Community Centers — event announcements
+      * Residential Areas — public messaging and alerts
+Target Audience
+      * Religious institutions
+      * Educational organizations
+      * Corporate environments
+      * Public facilities
+Design Approach
+      * Reliable hardware architecture
+      * Clear and consistent audio delivery
+      * Simple configuration and control
+      * Durable and efficient system design
+Technology
+      * Embedded systems
+      * IoT connectivity (WiFi)
+      * Audio processing modules
+      * Scheduling and automation logic
+Outcome
+      * Automated and consistent communication
+      * Reduced manual intervention
+      * Improved audio clarity and reach
+      * Reliable scheduling and operation
+Future Scope
+      * Mobile app control integration
+      * Multi-zone audio broadcasting
+      * Cloud-based scheduling system
+      * Voice command integration
+
+
+      2. Jammer Testing Device
+Precision RF testing. Reliable validation.
+Overview
+Jammer Testing Device is a hardware-based RF testing system designed to evaluate communication reliability across predefined frequency channels. It consists of a Transmitter and Receiver unit working on a shared frequency map to validate signal performance in controlled environments.
+Hardware Device · RF System · Embedded System · Testing Equipment
+Problem
+RF testing environments face:
+      * Difficulty validating signal performance across frequencies
+      * Lack of structured testing workflows
+      * Limited real-time feedback during tests
+      * Inconsistent testing results
+→ Leads to unreliable validation and inefficient testing processes
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+ RF testing workflows, communication gaps, validation challenges
+02 — Strategy & Positioning
+ Direction: “Accurate testing through controlled frequency systems”
+03 — System Design
+ Dual-unit hardware with frequency indexing, real-time feedback, and control interface
+Solution
+The system enables:
+      * Controlled RF communication testing
+      * Frequency-based validation across bands
+      * Real-time feedback through display and indicators
+      * Repeatable and structured testing workflows
+Core Features
+      * Dual Unit System — transmitter & receiver architecture
+      * Frequency Indexing — step through predefined channels
+      * OLED Display — real-time device feedback
+      * Manual Control Button — quick frequency switching
+      * Audio & LED Indicators — status alerts via buzzer and LEDs
+      * Rechargeable System — portable and efficient testing
+Technical Specifications
+      * Communication Range — up to 25 meters (line of sight)
+      * Low Band Range — 20–500 MHz (17 channels)
+      * ISM Band Range — 2.4–2.525 GHz
+      * Boot Time — ~1 minute
+      * Power — rechargeable battery, USB-C charging
+      * Indicators — OLED display, LEDs, buzzer
+Use Cases
+      * RF testing environments
+      * Equipment validation and acceptance testing
+      * Training simulations
+      * Controlled jammer evaluation scenarios
+Target Audience
+      * Defence and RF testing teams
+      * Engineers and technicians
+      * Communication system testers
+      * Training and simulation facilities
+Design Approach
+      * Robust hardware architecture
+      * Clear on-device feedback
+      * Simple and controlled interaction
+      * Reliable and repeatable testing flow
+Technology
+      * Embedded systems
+      * RF communication modules
+      * Frequency mapping and control logic
+      * Display and feedback systems
+Outcome
+      * Accurate RF validation
+      * Improved testing reliability
+      * Faster testing workflows
+      * Better signal analysis
+Future Scope
+      * Extended communication range
+      * Advanced frequency coverage
+      * Data logging and analytics
+      * Integration with software dashboards
+03 — People Counter
+Smart counting. Real-time tracking.
+Overview
+People Counter is a lidar based person counting device with built in oled and have excel record.
+Hardware Device · LiDAR System · Embedded System · Data Logging
+Problem
+Environments face:
+Difficulty tracking real-time occupancy
+Manual counting inefficiency
+Lack of automated data records
+→ Leads to inaccurate tracking and poor data management
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Counting challenges and monitoring gaps
+02 — Strategy & Positioning
+Direction: “Automated and accurate people tracking”
+03 — System Design
+LiDAR-based sensing with display and logging
+Solution
+The system enables:
+Automated person counting
+Real-time display via OLED
+Excel-based record tracking
+Core Features
+LiDAR Counting — accurate detection
+OLED Display — real-time count
+Excel Logging — data storage
+Technical Specifications
+LiDAR sensor integration
+OLED display
+Data export system
+Use Cases
+Offices
+Public spaces
+Crowd monitoring
+Target Audience
+Organizations
+Facility managers
+Design Approach
+Compact hardware
+Real-time accuracy
+Simple output
+Technology
+LiDAR sensors
+Embedded system
+Data logging
+Outcome
+Accurate counting
+Automated records
+Future Scope
+Cloud integration
+Analytics dashboard
+04 — Red Strength
+Intelligent heating control.
+Overview
+Red Strength is an advanced IoT-based boiler and heating control system designed for intelligent temperature regulation, fault detection, and remote monitoring. It integrates ESP32, Firebase, and sensor networks to ensure efficient, safe, and automated heating management.
+Hardware Device · IoT System · ESP32 · Monitoring Platform
+Problem
+Heating systems face:
+Manual control inefficiency
+Lack of monitoring
+No automation
+→ Leads to unsafe and inefficient heating
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Heating workflow issues
+02 — Strategy & Positioning
+Direction: “Smart automated heating control”
+03 — System Design
+Sensor + ESP32 + cloud integration
+Solution
+The system enables:
+Temperature automation
+Fault detection
+Remote monitoring
+Core Features
+Temperature Control — automated regulation
+Fault Detection — alerts
+Remote Monitoring — Firebase sync
+Technical Specifications
+ESP32
+Sensor network
+Cloud integration
+Use Cases
+Industrial heating
+Boiler systems
+Target Audience
+Industries
+Engineers
+Design Approach
+Reliable automation
+Safe control
+Technology
+ESP32
+IoT sensors
+Firebase
+Outcome
+Efficient heating
+Improved safety
+Future Scope
+AI optimization
+Predictive maintenance
+
+
+05 — Vanguard
+Load monitoring with control.
+Overview
+This device monitor multiple ac load and have access on website with detailed monthly report also has option to turn on off the load.
+Hardware Device · IoT Monitoring · Control System · Web Integration
+Problem
+Systems face:
+No centralized load monitoring
+Manual control limitations
+Lack of reporting
+→ Leads to inefficient energy management
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Load monitoring gaps
+02 — Strategy & Positioning
+Direction: “Real-time load visibility and control”
+03 — System Design
+IoT-based monitoring with web interface
+Solution
+The system enables:
+Real-time monitoring
+Remote control of loads
+Monthly reporting
+Core Features
+Load Monitoring — track AC loads
+Remote Control — turn on/off
+Web Dashboard — reporting
+Technical Specifications
+IoT module
+Web integration
+Use Cases
+Industrial monitoring
+Energy systems
+Target Audience
+Engineers
+Facility managers
+Design Approach
+Data-first system
+Remote accessibility
+Technology
+IoT modules
+Web system
+Outcome
+Better control
+Improved efficiency
+Future Scope
+Automation rules
+AI analytics
+06 — Lift Services
+Smart lift control system.
+Overview
+Custom keypad with pcb that monitor start/stop car status with custom mobile and web application
+Hardware Device · PCB System · IoT · Mobile & Web App
+Problem
+Lift systems face:
+Manual monitoring
+No remote control
+Lack of integration
+→ Leads to inefficiency and safety concerns
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Lift operation gaps
+02 — Strategy & Positioning
+Direction: “Connected lift control”
+03 — System Design
+PCB + mobile + web system
+Solution
+The system enables:
+Lift status monitoring
+Remote control
+App-based access
+Core Features
+Keypad PCB — hardware control
+Status Monitoring — start/stop tracking
+Mobile & Web App — control interface
+Technical Specifications
+Custom PCB
+IoT connectivity
+Use Cases
+Buildings
+Elevator systems
+Target Audience
+Building managers
+Maintenance teams
+Design Approach
+Safety-focused
+Real-time tracking
+Technology
+PCB systems
+IoT integration
+Outcome
+Improved monitoring
+Better control
+Future Scope
+Automation alerts
+Predictive maintenance
+07 — Aqua Climas
+Smart climate control system.
+Overview
+Interactive screen control pcb has status of temperature and humidity and schedule based blower system
+Hardware Device · Environmental Monitoring · PCB System · Automation
+Problem
+Climate systems face:
+Manual control
+No scheduling
+Lack of monitoring
+→ Leads to inefficiency and discomfort
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Environmental control gaps
+02 — Strategy & Positioning
+Direction: “Automated climate regulation”
+03 — System Design
+Sensor-based PCB system
+Solution
+The system enables:
+Temperature monitoring
+Humidity tracking
+Scheduled blower control
+Core Features
+Sensor Monitoring — temp & humidity
+Screen Interface — real-time data
+Blower Scheduling — automation
+Technical Specifications
+PCB system
+Sensors
+Use Cases
+Indoor environments
+Industrial spaces
+Target Audience
+Facility operators
+Design Approach
+Simple interface
+Automated control
+Technology
+Sensors
+Embedded PCB
+Outcome
+Improved comfort
+Energy efficiency
+Future Scope
+AI climate control
+Remote access
+07 — Digi Dash
+Vehicle data visualization.
+Overview
+Interactive screen that display different car parameters like rpm speed etc
+Hardware Device · Embedded Display · Automotive System
+Problem
+Vehicles lack:
+Centralized data display
+Real-time insights
+→ Leads to poor monitoring
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Vehicle data gaps
+02 — Strategy & Positioning
+Direction: “Real-time vehicle insights”
+03 — System Design
+Display-based dashboard
+Solution
+The system enables:
+Real-time vehicle data display
+Interactive dashboard
+Core Features
+RPM Display
+Speed Monitoring
+Interactive UI
+Technical Specifications
+Display module
+Vehicle sensors
+Use Cases
+Cars
+Automotive systems
+Target Audience
+Drivers
+Engineers
+Design Approach
+Clear visuals
+Real-time feedback
+Technology
+Embedded display
+Sensors
+Outcome
+Better driving insights
+Future Scope
+Advanced analytics
+Smart alerts
+08 — Tracker using SIM7000g
+Connected GPS tracking.
+Overview
+Sim Connectivity based gps tracking with custom web application
+Hardware Device · IoT · GPS System · Cellular Connectivity
+Problem
+Tracking systems face:
+No real-time location
+Limited connectivity
+→ Leads to tracking inefficiency
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Tracking gaps
+02 — Strategy & Positioning
+Direction: “Connected real-time tracking”
+03 — System Design
+GPS + SIM module + web
+Solution
+The system enables:
+Real-time tracking
+Web monitoring
+Core Features
+GPS Tracking
+SIM Connectivity
+Web Dashboard
+Technical Specifications
+SIM7000g module
+GPS system
+Use Cases
+Asset tracking
+Vehicle tracking
+Target Audience
+Logistics teams
+Design Approach
+Reliable connectivity
+Simple interface
+Technology
+GPS
+Cellular IoT
+Outcome
+Accurate tracking
+Future Scope
+Geofencing
+AI tracking
+09 — Emoji Keypad
+Custom input. Expressive interaction.
+Overview
+Custom Keypad that provide different emojis on windows and MAC OS.
+Hardware Device · Custom Keyboard · Embedded System · Input Device
+Problem
+Users face:
+Limited shortcut customization
+Slow emoji access
+→ Leads to inefficient interaction
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+User interaction gaps
+02 — Strategy & Positioning
+Direction: “Fast and expressive input system”
+03 — System Design
+Custom keypad with mapped outputs
+Solution
+The system enables:
+Quick emoji input
+Custom hardware shortcuts
+Core Features
+Custom Keys — emoji triggers
+Cross Platform — Windows & Mac
+Plug & Play — easy usage
+Technical Specifications
+Custom PCB
+USB interface
+Use Cases
+Content creators
+Office users
+Target Audience
+General users
+Design Approach
+Simple interaction
+Fast response
+Technology
+Embedded keypad
+USB communication
+Outcome
+Improved productivity
+Faster interaction
+Future Scope
+Programmable keys
+Custom software
+10 — Doaxfer
+Smart pet monitoring.
+Overview
+Pet Temperature monitoring device with PWM based fan control feature with custom mobile application
+Hardware Device · IoT · Pet Monitoring · Mobile App Integration
+Problem
+Pet care faces:
+No real-time monitoring
+Poor environment control
+→ Leads to health risks
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Pet monitoring gaps
+02 — Strategy & Positioning
+Direction: “Smart pet care system”
+03 — System Design
+Sensor + PWM + mobile integration
+Solution
+The system enables:
+Temperature monitoring
+Fan control
+Mobile tracking
+Core Features
+Temp Monitoring — real-time data
+PWM Fan Control — environment control
+Mobile App — remote access
+Technical Specifications
+Sensors
+PWM controller
+Mobile connectivity
+Use Cases
+Pet environments
+Target Audience
+Pet owners
+Design Approach
+User-friendly
+Automated control
+Technology
+IoT sensors
+Mobile app
+Outcome
+Better pet safety
+Future Scope
+AI monitoring
+Alerts system
+11 — Transceiver Indication
+Signal indication system.
+Overview
+An ESP32-based transmitter and receiver system used only for indication in a long hall.
+Hardware Device · ESP32 · RF Communication
+Problem
+Large spaces face:
+Signal visibility issues
+No indication system
+→ Leads to communication gaps
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Signal gaps
+02 — Strategy & Positioning
+Direction: “Reliable indication system”
+03 — System Design
+ESP32 TX-RX system
+Solution
+The system enables:
+Signal indication
+Wireless communication
+Core Features
+Transmitter
+Receiver
+Indicator output
+Technical Specifications
+ESP32
+RF communication
+Use Cases
+Halls
+Facilities
+Target Audience
+Engineers
+Design Approach
+Reliable system
+Simple feedback
+Technology
+ESP32
+RF
+Outcome
+Improved visibility
+Future Scope
+Extended range
+12 — RFID Based Interaction
+Smart wearable interaction.
+Overview
+Interaction Band with custom mobile application
+Hardware Device · RFID System · Wearable · Mobile Integration
+Problem
+Interaction systems face:
+Manual processes
+Lack of automation
+→ Leads to inefficiency
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Interaction gaps
+02 — Strategy & Positioning
+Direction: “Touchless smart interaction”
+03 — System Design
+RFID band + app
+Solution
+The system enables:
+RF-based interaction
+Mobile integration
+Core Features
+RFID Band
+Mobile App
+Wireless interaction
+Technical Specifications
+RFID module
+Mobile connectivity
+Use Cases
+Events
+Access systems
+Target Audience
+Users
+Organizations
+Design Approach
+Fast interaction
+User-friendly
+Technology
+RFID
+Mobile app
+Outcome
+Simplified interaction
+Future Scope
+Secure authentication
+13 — Temp Sensor
+Precision temperature monitoring.
+Overview
+Temperature monitoring device used to measure feeder temperature
+Hardware Device · Sensor System · Embedded Monitoring
+Problem
+Systems face:
+Manual temperature checks
+No continuous monitoring
+→ Leads to inefficiency
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Monitoring gaps
+02 — Strategy & Positioning
+Direction: “Continuous temperature tracking”
+03 — System Design
+Sensor-based monitoring
+Solution
+The system enables:
+Real-time temperature measurement
+Core Features
+Temperature Sensor
+Continuous Monitoring
+Technical Specifications
+Sensor module
+Use Cases
+Industrial feeders
+Target Audience
+Technicians
+Design Approach
+Simple and reliable
+Technology
+Sensors
+Outcome
+Accurate measurement
+Future Scope
+Remote monitoring
+14 — SOVSMART
+Multi-parameter monitoring system.
+Overview
+SOVSMART pcb used to measure flow of water, temperature, conductivity and pressure and send data over main node using RF and than publish data on website.
+Hardware Device · IoT · RF Communication · Data Monitoring System
+Problem
+Systems face:
+No centralized monitoring
+Manual data collection
+Lack of multi-parameter tracking
+→ Leads to inefficiency and poor analysis
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Monitoring gaps
+02 — Strategy & Positioning
+Direction: “Smart multi-sensor monitoring”
+03 — System Design
+PCB with RF communication
+Solution
+The system enables:
+Multi-parameter measurement
+Wireless data transmission
+Web publishing
+Core Features
+Flow Measurement
+Temperature Monitoring
+RF Communication
+Web Integration
+Technical Specifications
+Sensors
+RF module
+PCB
+Use Cases
+Industrial monitoring
+Target Audience
+Engineers
+Design Approach
+Data-first system
+Technology
+Sensors
+RF
+IoT
+Outcome
+Better monitoring
+Future Scope
+Cloud analytics
+15 — Trolley Lock
+Smart locking system.
+Overview
+Mobile based system to lock and unlock the trolley.
+Hardware Device · IoT · Access Control · Mobile Integration
+Problem
+Systems face:
+Manual locking
+No remote access
+→ Leads to inefficiency
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Access control gaps
+02 — Strategy & Positioning
+Direction: “Smart locking with mobile control”
+03 — System Design
+IoT lock system
+Solution
+The system enables:
+Remote lock/unlock
+Core Features
+Mobile Control
+Lock System
+Technical Specifications
+IoT module
+Use Cases
+Retail
+Logistics
+Target Audience
+Businesses
+Design Approach
+Simple and secure
+Technology
+IoT
+Outcome
+Improved control
+Future Scope
+Biometric locking
+16 — Fan Control
+Timed motor control system.
+Overview
+Fan Control pcb used to control clock based motor it speed and timing for on duration
+Hardware Device · PCB Control · Automation System
+Problem
+Systems face:
+Manual control
+No timing automation
+→ Leads to inefficiency
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Control gaps
+02 — Strategy & Positioning
+Direction: “Automated fan control”
+03 — System Design
+PCB timing control
+Solution
+The system enables:
+Timed control
+Speed regulation
+Core Features
+Speed Control
+Timer System
+Technical Specifications
+PCB
+Use Cases
+Appliances
+Target Audience
+General users
+Design Approach
+Efficient control
+Technology
+Embedded PCB
+Outcome
+Energy efficiency
+Future Scope
+Smart automation
+17 — Air Purifier
+Smart air quality system.
+Overview
+Screen based air quality monitoring with different controls like brightness , child control and warning when to change air filter
+Hardware Device · Environmental Monitoring · Embedded UI
+Problem
+Air systems face:
+No monitoring
+No alerts
+→ Leads to poor air quality
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Air quality gaps
+02 — Strategy & Positioning
+Direction: “Smart air monitoring”
+03 — System Design
+Screen-based system
+Solution
+The system enables:
+Air monitoring
+Alerts
+Core Features
+Air Quality Display
+Controls
+Alerts
+Technical Specifications
+Sensors
+Display
+Use Cases
+Homes
+Offices
+Target Audience
+Users
+Design Approach
+Simple UI
+Technology
+Sensors
+Outcome
+Better air quality
+Future Scope
+AI filtering
+18 — Public Announcement
+Audio communication system.
+Overview
+Public Announcement Device
+Hardware Device · Audio System · Communication System
+Problem
+Systems face:
+Manual announcements
+No automation
+→ Leads to inefficiency
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Communication gaps
+02 — Strategy & Positioning
+Direction: “Automated communication”
+03 — System Design
+Audio system
+Solution
+The system enables:
+Announcements
+Core Features
+Audio Output
+Technical Specifications
+Audio system
+Use Cases
+Public places
+Target Audience
+Organizations
+Design Approach
+Clear audio
+Technology
+Audio hardware
+Outcome
+Better communication
+Future Scope
+Automation
+19 — Etuopia Band
+Emergency response wearable.
+Overview
+Eutopia Band is an sos band that will alert guardians in case of emergency by pressing sos button or voice trigger and also provide location and alert guardians if virtual fence is crossed.
+Hardware Device · Wearable · IoT · Safety System
+Problem
+Safety systems face:
+Delayed alerts
+No tracking
+→ Leads to risk
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Safety gaps
+02 — Strategy & Positioning
+Direction: “Instant emergency response”
+03 — System Design
+Wearable system
+Solution
+The system enables:
+SOS alerts
+Location tracking
+Core Features
+SOS Button
+Voice Trigger
+Geofencing
+Technical Specifications
+IoT module
+Use Cases
+Personal safety
+Target Audience
+Users
+Design Approach
+Fast response
+Technology
+IoT
+Outcome
+Improved safety
+Future Scope
+AI detection
+20 — NDMA Tracker
+Real-time location tracking.
+Overview
+Real-Time Location Tracker smartwatch that can locate assets and personal Outdoors and Inside Buildings, and sends location to a Server using Cellular Networks; with upto 2-3 days Battery Life.
+Hardware Device · IoT · GPS · Smartwatch System
+Problem
+Tracking systems face:
+Limited accuracy
+No indoor tracking
+→ Leads to inefficiency
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Tracking gaps
+02 — Strategy & Positioning
+Direction: “Anywhere tracking system”
+03 — System Design
+Smartwatch tracker
+Solution
+The system enables:
+Indoor & outdoor tracking
+Core Features
+GPS Tracking
+Cellular Sync
+Technical Specifications
+Battery 2–3 days
+Use Cases
+Disaster management
+Target Audience
+Organizations
+Design Approach
+Reliable tracking
+Technology
+GPS
+Cellular
+Outcome
+Accurate tracking
+Future Scope
+AI tracking
+21— Ledumi Toy
+Interactive learning system.
+Overview
+Interactive toy designed to engage users through audio-based questions and answer selection driven by physical interaction.
+Hardware Device · Interactive System · Embedded IO
+Problem
+Learning systems face:
+Low engagement
+→ Leads to poor learning
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Learning gaps
+02 — Strategy & Positioning
+Direction: “Interactive learning”
+03 — System Design
+Input-output system
+Solution
+The system enables:
+Interactive learning
+Core Features
+Audio Interaction
+Physical Input
+Technical Specifications
+IO components
+Use Cases
+Education
+Target Audience
+Kids
+Design Approach
+Engaging design
+Technology
+Embedded IO
+Outcome
+Better learning
+Future Scope
+AI learning
+22 — ESP32 CAM Box
+Smart security system.
+Overview
+Security box which has feature if someone try to open any safe it take pictures that stores in sd card and send a message to owner mobile phone.
+Hardware Device · ESP32 · Surveillance · IoT Security
+Problem
+Security systems face:
+No alerts
+→ Leads to theft risk
+Process
+Research → Strategy → Design → Refine → Deliver
+01 — Discovery & Audit
+Security gaps
+02 — Strategy & Positioning
+Direction: “Smart intrusion detection”
+03 — System Design
+Camera system
+Solution
+The system enables:
+Capture images
+Send alerts
+Core Features
+Camera
+Alert system
+Technical Specifications
+ESP32 CAM
+Use Cases
+Security
+Target Audience
+Users
+Design Approach
+Secure system
+Technology
+ESP32
+Outcome
+Improved safety
+Future Scope
+AI detection
+23 — Jammer Tester
+RF testing system.
+Overview
+Jammer Tester
+Hardware Device · RF System · Testing Equipment
+Problem
+RF testing gaps
+→ Leads to unreliable testing
+Process
+Research → Strategy → Design → Refine → Deliver
+Solution
+Testing system
+Outcome
+Improved validation
+24 — QR Doorman
+Multi-mode access control.
+Overview
+A multi-mode hardware access control device enabling gate unlocking through mobile authentication, RFID tags, and vehicle identification tags
+Hardware Device · Access Control · RFID · Mobile Integration
+Problem
+Access systems face:
+Manual entry
+→ Leads to inefficiency
+Solution
+Smart access system
+Core Features
+QR Access
+RFID
+Mobile
+Outcome
+Better control
+25 — Pet Feeder
+Automated feeding system.
+Overview
+A mobile app–controlled pet feeder that allows users to schedule specific time slots for feeding their pets.
+Hardware Device · IoT · Pet Care · Mobile App
+Problem
+Feeding inconsistency
+→ Leads to pet issues
+Solution
+Scheduled feeding
+Outcome
+Better pet care
+26 — EPEVER Project
+Smart solar control system.
+Overview
+Solar charge controller system that uses MPPT technology to efficiently convert and regulate solar power for battery charging and load control.
+Hardware Device · Power System · Solar Technology · MPPT
+Problem
+Energy inefficiency
+→ Leads to power loss
+Solution
+Efficient solar control
+Outcome
+Optimized energy
