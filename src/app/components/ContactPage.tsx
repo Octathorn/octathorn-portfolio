@@ -90,8 +90,8 @@ export function ContactPage({ onBack }: ContactPageProps) {
               <span className="text-white/40">worth talking about.</span>
             </h1>
             <p className="text-white/45 max-w-lg" style={{ fontSize: '1rem', lineHeight: 1.8 }}>
-              Whether you have a brief, a budget, or just an idea — we're ready to listen.
-              Fill in the form and we'll reply within one business day.
+              At our core, we offer automated solutions that simplify your problems. Name your challenge,
+              and our tech-based solutions are here for you.
             </p>
           </motion.div>
         </div>
@@ -302,17 +302,23 @@ export function ContactPage({ onBack }: ContactPageProps) {
               </p>
               <div className="space-y-5">
                 {[
-                  { Icon: Mail,   label: 'Email',    value: 'hello@octathorn.com' },
-                  { Icon: Phone,  label: 'Phone',    value: '+1 (555) 012 3456' },
-                  { Icon: MapPin, label: 'Location', value: 'Dubai, UAE · Remote worldwide' },
-                ].map(({ Icon, label, value }) => (
+                  { Icon: Mail,   label: 'Email',    value: 'info@octathorn.com', href: 'mailto:info@octathorn.com' },
+                  { Icon: Phone,  label: 'Phone',    value: '+92 51 8773179 - +92 305 5400609' },
+                  { Icon: MapPin, label: 'Location', value: 'Office 608, Alpha Techno Square NASTP, Old Airport Building Chaklala Cantt. Rawalpindi, Punjab Pakistan' },
+                ].map(({ Icon, label, value, href }) => (
                   <div key={label} className="flex items-start gap-3.5">
                     <div className="w-8 h-8 rounded-xl bg-white/[0.06] flex items-center justify-center flex-shrink-0 mt-0.5">
                       <Icon className="w-3.5 h-3.5 text-white/45" />
                     </div>
                     <div>
                       <p className="text-white/25 text-[10.5px] tracking-[0.14em] uppercase mb-0.5">{label}</p>
-                      <p className="text-white/75 text-[13.5px]">{value}</p>
+                      {href ? (
+                        <a href={href} className="text-white/75 text-[13.5px] hover:text-white underline underline-offset-2 transition-colors">
+                          {value}
+                        </a>
+                      ) : (
+                        <p className="text-white/75 text-[13.5px]">{value}</p>
+                      )}
                     </div>
                   </div>
                 ))}
@@ -350,13 +356,12 @@ export function ContactPage({ onBack }: ContactPageProps) {
 
             {/* Social links */}
             <div className="bg-[#161616] border border-white/[0.07] rounded-3xl p-7">
-              <p className="text-white/25 text-[10px] tracking-[0.2em] uppercase mb-4">Follow our work</p>
+              <p className="text-white/25 text-[10px] tracking-[0.2em] uppercase mb-4">Social network</p>
               <div className="space-y-2">
                 {[
-                  { name: 'Behance',   url: 'https://behance.net' },
-                  { name: 'Dribbble',  url: 'https://dribbble.com' },
-                  { name: 'LinkedIn',  url: 'https://linkedin.com' },
-                  { name: 'Instagram', url: 'https://instagram.com' },
+                  { name: 'Facebook',  url: 'https://www.facebook.com/octathornpvtltd' },
+                  { name: 'LinkedIn',  url: 'https://www.linkedin.com/company/octathorn/posts/?feedView=all' },
+                  { name: 'YouTube',   url: 'https://www.youtube.com/@OctathornTech' },
                 ].map(link => (
                   <a
                     key={link.name}

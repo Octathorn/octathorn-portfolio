@@ -411,8 +411,8 @@ export function ProjectDetails({ project, onBack, onNextProject, nextProjectTitl
           </h2>
         </motion.div>
 
+        {/* Typography and Colour Palette — hidden until project-specific design token data is available
         <div className="grid md:grid-cols-2 gap-6 mb-6">
-          {/* Typography card */}
           <motion.div
             variants={fadeUp} initial="hidden" whileInView="show" viewport={{ once: true }}
             className="bg-[#161616] border border-white/[0.07] rounded-2xl p-8"
@@ -426,7 +426,6 @@ export function ProjectDetails({ project, onBack, onNextProject, nextProjectTitl
             </div>
           </motion.div>
 
-          {/* Colour card */}
           <motion.div
             variants={fadeUp} initial="hidden" whileInView="show" viewport={{ once: true }}
             className="bg-[#161616] border border-white/[0.07] rounded-2xl p-8"
@@ -447,9 +446,9 @@ export function ProjectDetails({ project, onBack, onNextProject, nextProjectTitl
                 </div>
               ))}
             </div>
-            
           </motion.div>
         </div>
+        */}
 
         {/* Full-width logo showcase */}
         <motion.div

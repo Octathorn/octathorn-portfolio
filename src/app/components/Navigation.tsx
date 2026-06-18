@@ -17,7 +17,7 @@ const navItems = [
   'PCBs',
   'Web development',
   'Mobile development',
-  'Product design',
+  // 'Product design',
   'UX UI design',
 ];
 

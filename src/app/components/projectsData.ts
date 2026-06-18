@@ -1,83 +1,165 @@
-import builderBuilderCover from '../../assets/Builder Builder/1.png';
-import builderBuilderGallery2 from '../../assets/Builder Builder/2.png';
-import builderBuilderGallery3 from '../../assets/Builder Builder/3.png';
-import builderBuilderGallery4 from '../../assets/Builder Builder/4.png';
-import builderBuilderGallery5 from '../../assets/Builder Builder/6.png';
-import builderBuilderGallery6 from '../../assets/Builder Builder/ChatGPT Image Apr 24, 2026, 09_29_16 AM.png';
+import fleetHubCover from '../../assets/portfolio-web-images/Fleethub/fleethub cover v2.png';
+import fleetHubOverview from '../../assets/portfolio-web-images/Fleethub/fleethub mockup 1.png';
+import fleetHubSolution from '../../assets/portfolio-web-images/Fleethub/fleethub mockup 2.png';
+import fleetHubLogo from '../../assets/portfolio-web-images/Fleethub/fleethub logo.png';
+import fleetHubGallery1 from '../../assets/portfolio-web-images/Fleethub/Fleethub Gallery Images/fleethub gallery image 1.png';
+import fleetHubGallery2 from '../../assets/portfolio-web-images/Fleethub/Fleethub Gallery Images/fleethub gallery image 2.png';
+import fleetHubGallery3 from '../../assets/portfolio-web-images/Fleethub/Fleethub Gallery Images/fleethub gallery image 3.png';
+import fleetHubGallery4 from '../../assets/portfolio-web-images/Fleethub/Fleethub Gallery Images/fleethub gallery image 4.png';
+import fleetHubGallery5 from '../../assets/portfolio-web-images/Fleethub/Fleethub Gallery Images/fleetthub gallery image 5.png';
+import fleetHubGallery6 from '../../assets/portfolio-web-images/Fleethub/Fleethub Gallery Images/fleethub gallery image 6.png';
 
-import athliixCover from '../../assets/Athliix/Group 1171276626.png';
-import athliixGallery2 from '../../assets/Athliix/image 173.png';
-import athliixGallery3 from '../../assets/Athliix/image 176.png';
-import athliixGallery4 from '../../assets/Athliix/Rectangle 40389.png';
-import athliixGallery5 from '../../assets/Athliix/Rectangle 40390.png';
-import athliixGallery6 from '../../assets/Athliix/Rectangle 40391.png';
-import athliixGallery7 from '../../assets/Athliix/Rectangle 40393.png';
-import athliixGallery8 from '../../assets/Athliix/Rectangle 40394.png';
+import gxTicketsCover from '../../assets/portfolio-web-images/GX Tickets/gx tickets cover.png';
+import gxTicketsOverview from '../../assets/portfolio-web-images/GX Tickets/gx tickets mockup 1.png';
+import gxTicketsSolution from '../../assets/portfolio-web-images/GX Tickets/gx tickets mockup 2.png';
+import gxTicketsLogo from '../../assets/portfolio-web-images/GX Tickets/gx tickets logo.png';
+import gxTicketsGallery1 from '../../assets/portfolio-web-images/GX Tickets/GX Tickets Gallery Images/gx tickets gallery image 1.png';
+import gxTicketsGallery2 from '../../assets/portfolio-web-images/GX Tickets/GX Tickets Gallery Images/gx tickets gallery image 2.png';
+import gxTicketsGallery3 from '../../assets/portfolio-web-images/GX Tickets/GX Tickets Gallery Images/gx tickets gallery image 3.png';
+import gxTicketsGallery4 from '../../assets/portfolio-web-images/GX Tickets/GX Tickets Gallery Images/gx tickets gallery image 4.png';
+import gxTicketsGallery5 from '../../assets/portfolio-web-images/GX Tickets/GX Tickets Gallery Images/gx tickets gallery image 5.png';
+import gxTicketsGallery6 from '../../assets/portfolio-web-images/GX Tickets/GX Tickets Gallery Images/gx tickets gallery image 6.png';
 
-import doxafarCover from '../../assets/Doxafer/petcare.png';
-import doxafarGallery1 from '../../assets/Doxafer/Group 1171276611.png';
-import doxafarGallery2 from '../../assets/Doxafer/image 116.png';
-import doxafarGallery3 from '../../assets/Doxafer/image 117.png';
-import doxafarGallery4 from '../../assets/Doxafer/image 118.png';
-import doxafarGallery5 from '../../assets/Doxafer/image 159.png';
-import doxafarGallery6 from '../../assets/Doxafer/image 160.png';
-import doxafarGallery7 from '../../assets/Doxafer/image 170.png';
-import doxafarGallery8 from '../../assets/Doxafer/image 171.png';
+import vivastCover from '../../assets/portfolio-web-images/Vivast Red Strength/vivast cover v2.png';
+import vivastOverview from '../../assets/portfolio-web-images/Vivast Red Strength/vivast mockup 1.png';
+import vivastSolution from '../../assets/portfolio-web-images/Vivast Red Strength/vivast mockup 2.png';
+import vivastMockup3 from '../../assets/portfolio-web-images/Vivast Red Strength/vivast mockup 3.png';
+import vivastLogo from '../../assets/portfolio-web-images/Vivast Red Strength/vivast logo.png';
+import vivastGallery1 from '../../assets/portfolio-web-images/Vivast Red Strength/Gallery Images/red strength gallery image 1.png';
+import vivastGallery2 from '../../assets/portfolio-web-images/Vivast Red Strength/Gallery Images/red strength gallery image 2.png';
+import vivastGallery3 from '../../assets/portfolio-web-images/Vivast Red Strength/Gallery Images/red strength gallery image 3.png';
+import vivastGallery4 from '../../assets/portfolio-web-images/Vivast Red Strength/Gallery Images/red strength gallery image 4.png';
+import vivastGallery5 from '../../assets/portfolio-web-images/Vivast Red Strength/Gallery Images/red strength gallery image 5.png';
+import vivastGallery6 from '../../assets/portfolio-web-images/Vivast Red Strength/Gallery Images/red strength gallery image 6.png';
 
-import fleetHubCover from '../../assets/Fleet hub/Cover image.png';
-import fleetHubGallery2 from '../../assets/Fleet hub/1.png';
-import fleetHubGallery3 from '../../assets/Fleet hub/2.png';
-import fleetHubGallery4 from '../../assets/Fleet hub/3.png';
-import fleetHubGallery5 from '../../assets/Fleet hub/4.png';
-import fleetHubGallery6 from '../../assets/Fleet hub/5.png';
-import fleetHubGallery7 from '../../assets/Fleet hub/6.png';
+import projecXCover from '../../assets/portfolio-web-images/Projecx/projecx cover.png';
+import projecXOverview from '../../assets/portfolio-web-images/Projecx/projecx mockup 1.png';
+import projecXSolution from '../../assets/portfolio-web-images/Projecx/projecx mockup 2.png';
+import projecXLogo from '../../assets/portfolio-web-images/Projecx/projecx logo.png';
+import projecXGallery1 from '../../assets/portfolio-web-images/Projecx/Projecx Gallery Images/projecx gallery image 1.png';
+import projecXGallery2 from '../../assets/portfolio-web-images/Projecx/Projecx Gallery Images/projecx gallery image 2.png';
+import projecXGallery3 from '../../assets/portfolio-web-images/Projecx/Projecx Gallery Images/projecx gallery image 3.png';
+import projecXGallery4 from '../../assets/portfolio-web-images/Projecx/Projecx Gallery Images/projecx gallery image 4.png';
+import projecXGallery5 from '../../assets/portfolio-web-images/Projecx/Projecx Gallery Images/projecx gallery image 5.png';
+import projecXGallery6 from '../../assets/portfolio-web-images/Projecx/Projecx Gallery Images/projecx gallery image 6.png';
 
-import gxTicketsCover from '../../assets/GX Tickets/Cover Image.png';
-import gxTicketsGallery2 from '../../assets/GX Tickets/1.png';
-import gxTicketsGallery3 from '../../assets/GX Tickets/2.png';
-import gxTicketsGallery4 from '../../assets/GX Tickets/3.png';
-import gxTicketsGallery5 from '../../assets/GX Tickets/4.png';
-import gxTicketsGallery6 from '../../assets/GX Tickets/5.png';
-import gxTicketsGallery7 from '../../assets/GX Tickets/6.png';
+import builderProCover from '../../assets/portfolio-web-images/Builder Pro/builder cover.png';
+import builderProOverview from '../../assets/portfolio-web-images/Builder Pro/builder mockup 1.png';
+import builderProSolution from '../../assets/portfolio-web-images/Builder Pro/builder mockup 2.png';
+import builderProLogo from '../../assets/portfolio-web-images/Builder Pro/builder logo.png';
+import builderProGallery1 from '../../assets/portfolio-web-images/Builder Pro/Builder Pro Gallery Images/builder gallery image 1.png';
+import builderProGallery2 from '../../assets/portfolio-web-images/Builder Pro/Builder Pro Gallery Images/builder gallery image 2.png';
+import builderProGallery3 from '../../assets/portfolio-web-images/Builder Pro/Builder Pro Gallery Images/builder gallery image 3.png';
+import builderProGallery4 from '../../assets/portfolio-web-images/Builder Pro/Builder Pro Gallery Images/builder gallery image 4.png';
+import builderProGallery5 from '../../assets/portfolio-web-images/Builder Pro/Builder Pro Gallery Images/builder gallery image 5.png';
+import builderProGallery6 from '../../assets/portfolio-web-images/Builder Pro/Builder Pro Gallery Images/builder gallery image 6.png';
 
-import heatriqCover from '../../assets/Heatrics/cover img.png';
-import heatriqGallery2 from '../../assets/Heatrics/1.png';
-import heatriqGallery3 from '../../assets/Heatrics/2.png';
-import heatriqGallery4 from '../../assets/Heatrics/3.png';
-import heatriqGallery5 from '../../assets/Heatrics/4.png';
-import heatriqGallery6 from '../../assets/Heatrics/5.png';
-import heatriqGallery7 from '../../assets/Heatrics/6.png';
+import circuitHubCover from '../../assets/portfolio-web-images/Circuit Hub/circuithub cover.png';
+import circuitHubOverview from '../../assets/portfolio-web-images/Circuit Hub/circuithub mockup 1.png';
+import circuitHubSolution from '../../assets/portfolio-web-images/Circuit Hub/circuithub mockup 2.png';
+import circuitHubLogo from '../../assets/portfolio-web-images/Circuit Hub/circuithub logo.png';
+import circuitHubGallery1 from '../../assets/portfolio-web-images/Circuit Hub/Circuit Hub Gallery Images/circuithub gallery image 01.png';
+import circuitHubGallery2 from '../../assets/portfolio-web-images/Circuit Hub/Circuit Hub Gallery Images/circuithub gallery image 02.png';
+import circuitHubGallery3 from '../../assets/portfolio-web-images/Circuit Hub/Circuit Hub Gallery Images/circuithub gallery image 05.png';
 
-import mediMinderCover from '../../assets/medi minder/medi minder.png';
-import mediMinderGallery2 from '../../assets/medi minder/Group 1171276627.png';
-import mediMinderGallery3 from '../../assets/medi minder/image 179.png';
-import mediMinderGallery4 from '../../assets/medi minder/image 180.png';
-import mediMinderGallery5 from '../../assets/medi minder/image 181.png';
-import mediMinderGallery6 from '../../assets/medi minder/image 183.png';
+import qrDoormanCover from '../../assets/portfolio-web-images/QR Doorman/qr doorman cover.png';
+import qrDoormanOverview from '../../assets/portfolio-web-images/QR Doorman/qr doorman mockup 1.png';
+import qrDoormanSolution from '../../assets/portfolio-web-images/QR Doorman/qr doorman mockup 2.png';
+import qrDoormanLogo from '../../assets/portfolio-web-images/QR Doorman/qr doorman logo.png';
+import qrDoormanGallery1 from '../../assets/portfolio-web-images/QR Doorman/QR Doorman Gallery Images/qr doorman gallery image 1.png';
+import qrDoormanGallery2 from '../../assets/portfolio-web-images/QR Doorman/QR Doorman Gallery Images/qr doorman gallery image 2.png';
+import qrDoormanGallery3 from '../../assets/portfolio-web-images/QR Doorman/QR Doorman Gallery Images/qr doorman gallery image 3.png';
+import qrDoormanGallery4 from '../../assets/portfolio-web-images/QR Doorman/QR Doorman Gallery Images/qr doorman gallery image 4.png';
+import qrDoormanGallery5 from '../../assets/portfolio-web-images/QR Doorman/QR Doorman Gallery Images/qr doorman gallery image 5.png';
+import qrDoormanGallery6 from '../../assets/portfolio-web-images/QR Doorman/QR Doorman Gallery Images/qr doorman gallery image 6.png';
 
-import projecXCover from '../../assets/ProjexX/cover page projecx.png';
-import projecXGallery2 from '../../assets/ProjexX/1.png';
-import projecXGallery3 from '../../assets/ProjexX/2.png';
-import projecXGallery4 from '../../assets/ProjexX/3.png';
-import projecXGallery5 from '../../assets/ProjexX/4.png';
-import projecXGallery6 from '../../assets/ProjexX/5.png';
-import projecXGallery7 from '../../assets/ProjexX/6.png';
+import metronCover from '../../assets/portfolio-web-images/Metron Design/metron cover.png';
+import metronOverview from '../../assets/portfolio-web-images/Metron Design/metron mockup 1.png';
+import metronSolution from '../../assets/portfolio-web-images/Metron Design/metron mockup 2.png';
+import metronLogo from '../../assets/portfolio-web-images/Metron Design/metron logo.png';
 
-import vanguardCover from '../../assets/Vanguard/cove img vanguard.png';
-import vanguardGallery2 from '../../assets/Vanguard/1.png';
-import vanguardGallery3 from '../../assets/Vanguard/2.png';
-import vanguardGallery4 from '../../assets/Vanguard/3.png';
-import vanguardGallery5 from '../../assets/Vanguard/4.png';
-import vanguardGallery6 from '../../assets/Vanguard/5.png';
-import vanguardGallery7 from '../../assets/Vanguard/6.png';
+import platinumCover from '../../assets/portfolio-web-images/Platinum Medical/platinum cover.png';
+import platinumOverview from '../../assets/portfolio-web-images/Platinum Medical/platinum mockup 1.png';
+import platinumSolution from '../../assets/portfolio-web-images/Platinum Medical/platinum mockup 2.png';
+import platinumLogo from '../../assets/portfolio-web-images/Platinum Medical/platinum logo.png';
+import platinumGallery1 from '../../assets/portfolio-web-images/Platinum Medical/Platinum Gallery Images/platinum gallery image 1.png';
+import platinumGallery2 from '../../assets/portfolio-web-images/Platinum Medical/Platinum Gallery Images/platinum gallery image 2.png';
+import platinumGallery3 from '../../assets/portfolio-web-images/Platinum Medical/Platinum Gallery Images/platinum gallery image 3.png';
+import platinumGallery4 from '../../assets/portfolio-web-images/Platinum Medical/Platinum Gallery Images/platinum gallery image 4.png';
+import platinumGallery5 from '../../assets/portfolio-web-images/Platinum Medical/Platinum Gallery Images/platinum gallery image 5.png';
+import platinumGallery6 from '../../assets/portfolio-web-images/Platinum Medical/Platinum Gallery Images/platinum gallery image 6.png';
 
-import vivastCover from '../../assets/Vivast/Cover image design.png';
-import vivastGallery2 from '../../assets/Vivast/1.png';
-import vivastGallery3 from '../../assets/Vivast/2.png';
-import vivastGallery4 from '../../assets/Vivast/3.png';
-import vivastGallery5 from '../../assets/Vivast/4.png';
-import vivastGallery6 from '../../assets/Vivast/5.png';
-import vivastGallery7 from '../../assets/Vivast/6.png';
+import hcmdCover from '../../assets/portfolio-web-images/HCMD/hcmd cover.png';
+import hcmdOverview from '../../assets/portfolio-web-images/HCMD/hcmd mockup 1.png';
+import hcmdSolution from '../../assets/portfolio-web-images/HCMD/hcmd mockup 1-1.png';
+
+import scsCover from '../../assets/portfolio-web-images/SCS/scs cover.png';
+import scsOverview from '../../assets/portfolio-web-images/SCS/scs mockup 1.png';
+import scsSolution from '../../assets/portfolio-web-images/SCS/scs mockup 2.png';
+import scsLogo from '../../assets/portfolio-web-images/SCS/scs logo.png';
+import scsGallery1 from '../../assets/portfolio-web-images/SCS/SCS Gallery Images/scs gallery image 1.png';
+import scsGallery2 from '../../assets/portfolio-web-images/SCS/SCS Gallery Images/scs gallery image 2.png';
+import scsGallery3 from '../../assets/portfolio-web-images/SCS/SCS Gallery Images/scs gallery image 3.png';
+import scsGallery4 from '../../assets/portfolio-web-images/SCS/SCS Gallery Images/scs gallery image  4.png';
+import scsGallery5 from '../../assets/portfolio-web-images/SCS/SCS Gallery Images/scs gallery image 5.png';
+import scsGallery6 from '../../assets/portfolio-web-images/SCS/SCS Gallery Images/scs gallery image 6.png';
+
+import vitalHealCover from '../../assets/portfolio-web-images/Vital Heat/vital heal cover.png';
+import vitalHealOverview from '../../assets/portfolio-web-images/Vital Heat/vital heal mockup 1.png';
+import vitalHealSolution from '../../assets/portfolio-web-images/Vital Heat/vital heal mockup 2.png';
+import vitalHealLogo from '../../assets/portfolio-web-images/Vital Heat/vital heal logo.png';
+
+import meditaskCover from '../../assets/portfolio-web-images/Meditask/meditask cover.png';
+import meditaskOverview from '../../assets/portfolio-web-images/Meditask/meditask mockup 1.png';
+import meditaskSolution from '../../assets/portfolio-web-images/Meditask/meditask mockup 2.png';
+import meditaskLogo from '../../assets/portfolio-web-images/Meditask/meditask logo.png';
+import meditaskGallery1 from '../../assets/portfolio-web-images/Meditask/Meditask Gallery Images/meditask gallery image 1.png';
+import meditaskGallery2 from '../../assets/portfolio-web-images/Meditask/Meditask Gallery Images/meditask gallery image 2.png';
+import meditaskGallery3 from '../../assets/portfolio-web-images/Meditask/Meditask Gallery Images/meditask gallery image 3.png';
+import meditaskGallery4 from '../../assets/portfolio-web-images/Meditask/Meditask Gallery Images/meditask gallery image 4.png';
+import meditaskGallery5 from '../../assets/portfolio-web-images/Meditask/Meditask Gallery Images/meditask gallery image 5.png';
+import meditaskGallery5Alt from '../../assets/portfolio-web-images/Meditask/Meditask Gallery Images/meditask gallery image 5-1.png';
+
+import webVanguardCover from '../../assets/portfolio-web-images/Vanguard/vanguard cover.png';
+import webVanguardOverview from '../../assets/portfolio-web-images/Vanguard/vanguard mockup 1.png';
+import webVanguardSolution from '../../assets/portfolio-web-images/Vanguard/vanguard mockup 2.png';
+import webVanguardLogo from '../../assets/portfolio-web-images/Vanguard/vanguard logo.png';
+import webVanguardGallery1 from '../../assets/portfolio-web-images/Vanguard/Vanguard Gallery Images/vanguard gallery image 1.png';
+import webVanguardGallery2 from '../../assets/portfolio-web-images/Vanguard/Vanguard Gallery Images/vanguard gallery image 2.png';
+import webVanguardGallery3 from '../../assets/portfolio-web-images/Vanguard/Vanguard Gallery Images/vanguard gallery image 3.png';
+import webVanguardGallery4 from '../../assets/portfolio-web-images/Vanguard/Vanguard Gallery Images/vanguard gallery image 4.png';
+import webVanguardGallery5 from '../../assets/portfolio-web-images/Vanguard/Vanguard Gallery Images/vanguard gallery image 5.png';
+import webVanguardGallery6 from '../../assets/portfolio-web-images/Vanguard/Vanguard Gallery Images/vanguard gallery image 6.png';
+
+import heatriqCover from '../../assets/portfolio-web-images/Heatriq/heatriq cover.png';
+import heatriqOverview from '../../assets/portfolio-web-images/Heatriq/heatriq mockup 1.png';
+import heatriqSolution from '../../assets/portfolio-web-images/Heatriq/heatriq mockup 2.png';
+import heatriqLogo from '../../assets/portfolio-web-images/Heatriq/heatriq logo.png';
+import heatriqGallery1 from '../../assets/portfolio-web-images/Heatriq/Heatriq Gallery Images/heatriq gallery image 1.png';
+import heatriqGallery2 from '../../assets/portfolio-web-images/Heatriq/Heatriq Gallery Images/heatriq gallery image 2.png';
+import heatriqGallery3 from '../../assets/portfolio-web-images/Heatriq/Heatriq Gallery Images/heatriq gallery image 3.png';
+import heatriqGallery4 from '../../assets/portfolio-web-images/Heatriq/Heatriq Gallery Images/heatriq gallery image 4.png';
+import heatriqGallery5 from '../../assets/portfolio-web-images/Heatriq/Heatriq Gallery Images/heatriq gallery image 5.png';
+import heatriqGallery6 from '../../assets/portfolio-web-images/Heatriq/Heatriq Gallery Images/heatriq gallery image 6.png';
+
+import athliixCover from '../../assets/portfolio-web-images/Athliix/Group 1171276626.png';
+import athliixGallery2 from '../../assets/portfolio-web-images/Athliix/image 173.png';
+import athliixGallery3 from '../../assets/portfolio-web-images/Athliix/image 176.png';
+import athliixGallery4 from '../../assets/portfolio-web-images/Athliix/Rectangle 40389.png';
+import athliixGallery5 from '../../assets/portfolio-web-images/Athliix/Rectangle 40390.png';
+import athliixGallery6 from '../../assets/portfolio-web-images/Athliix/Rectangle 40391.png';
+import athliixGallery7 from '../../assets/portfolio-web-images/Athliix/Rectangle 40393.png';
+import athliixGallery8 from '../../assets/portfolio-web-images/Athliix/Rectangle 40394.png';
+
+import doxafarCover from '../../assets/portfolio-web-images/Doxafer/cover.png';
+import doxafarGallery1 from '../../assets/portfolio-web-images/Doxafer/Group 1171276611.png';
+import doxafarGallery2 from '../../assets/portfolio-web-images/Doxafer/image 116.png';
+import doxafarGallery3 from '../../assets/portfolio-web-images/Doxafer/image 117.png';
+import doxafarGallery4 from '../../assets/portfolio-web-images/Doxafer/image 118.png';
+import doxafarGallery5 from '../../assets/portfolio-web-images/Doxafer/image 159.png';
+import doxafarGallery6 from '../../assets/portfolio-web-images/Doxafer/image 160.png';
+import doxafarGallery7 from '../../assets/portfolio-web-images/Doxafer/image 170.png';
+import doxafarGallery8 from '../../assets/portfolio-web-images/Doxafer/image 171.png';
 
 export interface Project {
   id: number;
@@ -470,7 +552,7 @@ export const serviceProjects: Record<string, Project[]> = {
       title: 'Vanguard',
       genre: 'Hardware',
       description: 'Load monitoring with control.',
-      image: vanguardCover,
+      image: webVanguardCover,
       url: '#',
       details: {
         heroTitle: 'Vanguard',
@@ -488,7 +570,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'Vanguard provides centralized monitoring for multiple AC loads with monthly reporting and remote control capabilities via a website.',
             'The system is designed to improve energy management by combining real-time monitoring, reporting, and control in one workflow.'
           ],
-          image: vanguardCover
+          image: webVanguardOverview
         },
         tags: ['IoT', 'Monitoring', 'Control', 'Web Dashboard', 'Reporting', 'Energy'],
         challenge: {
@@ -511,7 +593,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'Vanguard enables live load monitoring, remote on/off control, and monthly reporting via a web dashboard.',
             'The experience is data-first and built for reliability in industrial monitoring scenarios.'
           ],
-          image: vanguardCover
+          image: webVanguardSolution
         },
         results: [
           { stat: 'Live', label: 'load monitoring visibility' },
@@ -520,18 +602,20 @@ export const serviceProjects: Record<string, Project[]> = {
           { stat: '↑', label: 'energy management efficiency' }
         ],
         gallery: [
-          { src: vanguardCover, alt: 'Vanguard — Cover' },
-          { src: vanguardGallery2, alt: 'Vanguard — Screen 1' },
-          { src: vanguardGallery3, alt: 'Vanguard — Screen 2' },
-          { src: vanguardGallery4, alt: 'Vanguard — Screen 3' },
-          { src: vanguardGallery5, alt: 'Vanguard — Screen 4' },
-          { src: vanguardGallery6, alt: 'Vanguard — Screen 5' },
-          { src: vanguardGallery7, alt: 'Vanguard — Screen 6' }
+          { src: webVanguardCover, alt: 'Vanguard — Cover' },
+          { src: webVanguardOverview, alt: 'Vanguard — Overview' },
+          { src: webVanguardSolution, alt: 'Vanguard — Solution' },
+          { src: webVanguardGallery1, alt: 'Vanguard — Gallery 1' },
+          { src: webVanguardGallery2, alt: 'Vanguard — Gallery 2' },
+          { src: webVanguardGallery3, alt: 'Vanguard — Gallery 3' },
+          { src: webVanguardGallery4, alt: 'Vanguard — Gallery 4' },
+          { src: webVanguardGallery5, alt: 'Vanguard — Gallery 5' },
+          { src: webVanguardGallery6, alt: 'Vanguard — Gallery 6' }
         ],
         designSystemImages: [
-          { src: vanguardCover, alt: 'Vanguard — Design system 1' },
-          { src: vanguardGallery2, alt: 'Vanguard — Design system 2' },
-          { src: vanguardGallery3, alt: 'Vanguard — Design system 3' }
+          { src: webVanguardLogo, alt: 'Vanguard — Logo system' },
+          { src: webVanguardOverview, alt: 'Vanguard — Overview' },
+          { src: webVanguardSolution, alt: 'Vanguard — Solution' }
         ]
       }
     },
@@ -642,7 +726,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'FleetHub is a comprehensive fleet management platform that enables organizations to monitor, manage, and optimize vehicle operations through real-time tracking and intelligent analytics.',
             'It supports centralized control, optimized routing and scheduling, fuel and maintenance tracking, and a reporting layer that improves operational decision-making.'
           ],
-          image: fleetHubCover
+          image: fleetHubOverview
         },
         tags: ['SaaS', 'Web Dashboard', 'Maps', 'Analytics', 'Fleet Tracking', 'Scheduling'],
         challenge: {
@@ -677,7 +761,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'FleetHub provides live GPS tracking, route optimization, driver and vehicle management, fuel analytics, and maintenance scheduling with alerts and service history.',
             'The experience is designed to be map-first and data-driven, enabling faster decisions and centralized operational control.'
           ],
-          image: fleetHubCover
+          image: fleetHubSolution
         },
         results: [
           { stat: '10K+', label: 'vehicles managed (impact snapshot)' },
@@ -687,17 +771,19 @@ export const serviceProjects: Record<string, Project[]> = {
         ],
         gallery: [
           { src: fleetHubCover, alt: 'FleetHub — Cover' },
-          { src: fleetHubGallery2, alt: 'FleetHub — Screen 1' },
-          { src: fleetHubGallery3, alt: 'FleetHub — Screen 2' },
-          { src: fleetHubGallery4, alt: 'FleetHub — Screen 3' },
-          { src: fleetHubGallery5, alt: 'FleetHub — Screen 4' },
-          { src: fleetHubGallery6, alt: 'FleetHub — Screen 5' },
-          { src: fleetHubGallery7, alt: 'FleetHub — Screen 6' }
+          { src: fleetHubOverview, alt: 'FleetHub — Overview' },
+          { src: fleetHubSolution, alt: 'FleetHub — Solution' },
+          { src: fleetHubGallery1, alt: 'FleetHub — Gallery 1' },
+          { src: fleetHubGallery2, alt: 'FleetHub — Gallery 2' },
+          { src: fleetHubGallery3, alt: 'FleetHub — Gallery 3' },
+          { src: fleetHubGallery4, alt: 'FleetHub — Gallery 4' },
+          { src: fleetHubGallery5, alt: 'FleetHub — Gallery 5' },
+          { src: fleetHubGallery6, alt: 'FleetHub — Gallery 6' }
         ],
         designSystemImages: [
-          { src: fleetHubCover, alt: 'FleetHub — Design system 1' },
-          { src: fleetHubGallery2, alt: 'FleetHub — Design system 2' },
-          { src: fleetHubGallery3, alt: 'FleetHub — Design system 3' }
+          { src: fleetHubLogo, alt: 'FleetHub — Logo system' },
+          { src: fleetHubOverview, alt: 'FleetHub — Overview' },
+          { src: fleetHubSolution, alt: 'FleetHub — Solution' }
         ],
         testimonial: {
           quote: 'Octathorn turned an impossible deadline into a flawless launch. The new platform handled Black Friday traffic that would have crashed our old site ten times over. Our vendors are thrilled with the performance.',
@@ -730,7 +816,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'GX Tickets combines premium UI with structured flows that make event setup fast and user booking frictionless.',
             'It supports end-to-end event management, ticketing analytics, secure payments, QR-based check-ins, and marketing tools — all within a consistent design system.'
           ],
-          image: gxTicketsCover
+          image: gxTicketsOverview
         },
         tags: ['SaaS', 'Ticketing', 'Event Management', 'Analytics', 'Payments', 'Design System'],
         challenge: {
@@ -753,7 +839,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'GX Tickets enables end-to-end event creation and management with real-time analytics for sales, revenue, and audience insights.',
             'Secure payments, smart ticketing (QR codes), marketing tools, and 24/7 customer support combine to deliver a seamless organizer + attendee experience.'
           ],
-          image: gxTicketsCover
+          image: gxTicketsSolution
         },
         results: [
           { stat: '5,000+', label: 'organizations supported (impact)' },
@@ -763,87 +849,92 @@ export const serviceProjects: Record<string, Project[]> = {
         ],
         gallery: [
           { src: gxTicketsCover, alt: 'GX Tickets — Cover' },
-          { src: gxTicketsGallery2, alt: 'GX Tickets — Screen 1' },
-          { src: gxTicketsGallery3, alt: 'GX Tickets — Screen 2' },
-          { src: gxTicketsGallery4, alt: 'GX Tickets — Screen 3' },
-          { src: gxTicketsGallery5, alt: 'GX Tickets — Screen 4' },
-          { src: gxTicketsGallery6, alt: 'GX Tickets — Screen 5' },
-          { src: gxTicketsGallery7, alt: 'GX Tickets — Screen 6' }
+          { src: gxTicketsOverview, alt: 'GX Tickets — Overview' },
+          { src: gxTicketsSolution, alt: 'GX Tickets — Solution' },
+          { src: gxTicketsGallery1, alt: 'GX Tickets — Gallery 1' },
+          { src: gxTicketsGallery2, alt: 'GX Tickets — Gallery 2' },
+          { src: gxTicketsGallery3, alt: 'GX Tickets — Gallery 3' },
+          { src: gxTicketsGallery4, alt: 'GX Tickets — Gallery 4' },
+          { src: gxTicketsGallery5, alt: 'GX Tickets — Gallery 5' },
+          { src: gxTicketsGallery6, alt: 'GX Tickets — Gallery 6' }
         ],
         designSystemImages: [
-          { src: gxTicketsCover, alt: 'GX Tickets — Design system 1' },
-          { src: gxTicketsGallery2, alt: 'GX Tickets — Design system 2' },
-          { src: gxTicketsGallery3, alt: 'GX Tickets — Design system 3' }
+          { src: gxTicketsLogo, alt: 'GX Tickets — Logo system' },
+          { src: gxTicketsOverview, alt: 'GX Tickets — Overview' },
+          { src: gxTicketsSolution, alt: 'GX Tickets — Solution' }
         ]
       }
     },
     {
       id: 3,
-      title: 'VIvast',
+      title: 'Vivast',
       genre: 'Web Dev',
-      description: 'Smart fitness management, simplified.',
+      description: 'Build strength. Recover smarter.',
       image: vivastCover,
       url: '#',
       details: {
-        heroTitle: 'VIvast',
-        heroSubtitle: 'All-in-one gym and fitness management platform that centralizes member management, billing, check-ins, POS, and analytics into a single system.',
+        heroTitle: 'Vivast',
+        heroSubtitle: 'Health and performance platform focused on strength training, rehabilitation, and personalized coaching — combining expert guidance, smart technology, and a mobile-first experience.',
         meta: {
-          client: '—',
+          client: 'AIX Team',
           role: '—',
           timeline: '—',
           year: '2024',
-          scope: 'SaaS Platform · Web App · Fitness Management · Dashboard'
+          scope: 'Fitness Platform · Mobile App · Health Coaching · AI Integration'
         },
         overview: {
-          heading: 'All-in-one control for modern fitness businesses.',
+          heading: 'Performance-focused, personalized fitness.',
           paragraphs: [
-            'VIvast unifies daily gym operations — from member profiles and check-ins to billing, invoicing, POS, and staff workflows.',
-            'A dashboard-first UI makes key business metrics visible and supports faster, more reliable decision-making for owners and operations teams.'
+            'Vivast is a health and performance platform focused on strength training, rehabilitation, and personalized coaching.',
+            'It helps users achieve long-term fitness and recovery goals through expert guidance, smart technology, and structured training flows.'
           ],
-          image: vivastCover
+          image: vivastOverview
         },
-        tags: ['Fitness SaaS', 'Dashboard', 'Billing', 'POS', 'Check-ins', 'Analytics'],
+        tags: ['Fitness', 'Health Coaching', 'Mobile App', 'AI Integration', 'Recovery', 'Progress Tracking'],
         challenge: {
-          title: 'Fragmented tools, manual processes, and limited real-time business insight.',
+          title: 'Lack of personalized plans, limited expert access, and disconnected training systems.',
           paragraphs: [
-            'Gyms often rely on multiple tools across membership, payments, and attendance — leading to inefficiency and time loss.',
-            'The product needed to centralize workflows and make performance transparent without increasing operational complexity.'
+            'Users struggle with inconsistent motivation, slow progress, and fragmented health and training tools.',
+            'The platform needed personalized programs, expert collaboration, and smart progress tracking in one motivating experience.'
           ]
         },
         process: {
           steps: [
-            { step: '01', title: 'Discovery & Audit', body: 'Studied gym workflows, operational gaps, and user pain points across staff and management roles.' },
-            { step: '02', title: 'Strategy & Positioning', body: 'Defined direction: “All-in-one control for modern fitness businesses” with fast, structured workflows.' },
-            { step: '03', title: 'Design System', body: 'Built a scalable UI system with strong hierarchy and responsive dashboard patterns.' }
+            { step: '01', title: 'Discovery & Audit', body: 'Studied user fitness journeys, recovery needs, and coaching gaps across training workflows.' },
+            { step: '02', title: 'Strategy & Positioning', body: 'Defined direction: “Performance-focused, personalized fitness” with mobile-first, motivation-driven UX.' },
+            { step: '03', title: 'Design System', body: 'Built a clean, energetic UI with structured fitness flows and personalized tracking patterns.' }
           ]
         },
         solution: {
-          heading: 'Operations, billing, and analytics — unified.',
+          heading: 'Personalized training, expert coaching, and smart progress — together.',
           paragraphs: [
-            'VIvast supports member management, biometric check-ins, automated billing & invoicing, POS, staff scheduling, and analytics dashboards.',
-            'Key modules include check-in systems, invoice management, staff roles, and configurable settings/add-ons for different gym needs.'
+            'Vivast delivers personalized fitness and recovery plans, expert-guided coaching, smart progress tracking, and community-driven support.',
+            'Core features include 24/7 gym access, goal-based programs, trainer and physical therapist collaboration, a 5,000+ exercise library, and flexible membership.'
           ],
-          image: vivastCover
+          image: vivastSolution
         },
         results: [
-          { stat: '100%', label: 'unified operations (impact)' },
-          { stat: '80%', label: 'time saved (impact)' },
-          { stat: 'Live', label: 'real-time analytics enabled (impact)' },
-          { stat: '↓', label: 'manual workload across staff (impact)' }
+          { stat: '↑', label: 'fitness performance' },
+          { stat: 'Faster', label: 'recovery cycles' },
+          { stat: '↑', label: 'user engagement' },
+          { stat: '↑', label: 'consistent progress tracking' }
         ],
         gallery: [
-          { src: vivastCover, alt: 'VIvast — Cover' },
-          { src: vivastGallery2, alt: 'VIvast — Screen 1' },
-          { src: vivastGallery3, alt: 'VIvast — Screen 2' },
-          { src: vivastGallery4, alt: 'VIvast — Screen 3' },
-          { src: vivastGallery5, alt: 'VIvast — Screen 4' },
-          { src: vivastGallery6, alt: 'VIvast — Screen 5' },
-          { src: vivastGallery7, alt: 'VIvast — Screen 6' }
+          { src: vivastCover, alt: 'Vivast — Cover' },
+          { src: vivastOverview, alt: 'Vivast — Overview' },
+          { src: vivastSolution, alt: 'Vivast — Solution' },
+          { src: vivastMockup3, alt: 'Vivast — Mockup 3' },
+          { src: vivastGallery1, alt: 'Vivast — Gallery 1' },
+          { src: vivastGallery2, alt: 'Vivast — Gallery 2' },
+          { src: vivastGallery3, alt: 'Vivast — Gallery 3' },
+          { src: vivastGallery4, alt: 'Vivast — Gallery 4' },
+          { src: vivastGallery5, alt: 'Vivast — Gallery 5' },
+          { src: vivastGallery6, alt: 'Vivast — Gallery 6' }
         ],
         designSystemImages: [
-          { src: vivastCover, alt: 'VIvast — Design system 1' },
-          { src: vivastGallery2, alt: 'VIvast — Design system 2' },
-          { src: vivastGallery3, alt: 'VIvast — Design system 3' }
+          { src: vivastLogo, alt: 'Vivast — Logo system' },
+          { src: vivastOverview, alt: 'Vivast — Overview' },
+          { src: vivastSolution, alt: 'Vivast — Solution' }
         ]
       }
     },
@@ -870,7 +961,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'ProjecX centralizes tasks, collaboration, and progress tracking so teams can plan, execute, and analyze delivery without switching tools.',
             'The experience is minimal and high-contrast with scalable components that work consistently across web, mobile, and tablet.'
           ],
-          image: projecXCover
+          image: projecXOverview
         },
         tags: ['Project Management', 'Collaboration', 'SaaS', 'Analytics', 'Notifications', 'Cross-platform'],
         challenge: {
@@ -893,7 +984,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'ProjecX supports task management, team chat/comments, file sharing, dashboards, performance insights, and reporting.',
             'A simple workflow (Create → Assign → Track → Complete & Analyze) keeps teams aligned and reduces missed updates.'
           ],
-          image: projecXCover
+          image: projecXSolution
         },
         results: [
           { stat: '10K+', label: 'active teams (impact)' },
@@ -903,17 +994,19 @@ export const serviceProjects: Record<string, Project[]> = {
         ],
         gallery: [
           { src: projecXCover, alt: 'ProjecX — Cover' },
-          { src: projecXGallery2, alt: 'ProjecX — Screen 1' },
-          { src: projecXGallery3, alt: 'ProjecX — Screen 2' },
-          { src: projecXGallery4, alt: 'ProjecX — Screen 3' },
-          { src: projecXGallery5, alt: 'ProjecX — Screen 4' },
-          { src: projecXGallery6, alt: 'ProjecX — Screen 5' },
-          { src: projecXGallery7, alt: 'ProjecX — Screen 6' }
+          { src: projecXOverview, alt: 'ProjecX — Overview' },
+          { src: projecXSolution, alt: 'ProjecX — Solution' },
+          { src: projecXGallery1, alt: 'ProjecX — Gallery 1' },
+          { src: projecXGallery2, alt: 'ProjecX — Gallery 2' },
+          { src: projecXGallery3, alt: 'ProjecX — Gallery 3' },
+          { src: projecXGallery4, alt: 'ProjecX — Gallery 4' },
+          { src: projecXGallery5, alt: 'ProjecX — Gallery 5' },
+          { src: projecXGallery6, alt: 'ProjecX — Gallery 6' }
         ],
         designSystemImages: [
-          { src: projecXCover, alt: 'ProjecX — Design system 1' },
-          { src: projecXGallery2, alt: 'ProjecX — Design system 2' },
-          { src: projecXGallery3, alt: 'ProjecX — Design system 3' }
+          { src: projecXLogo, alt: 'ProjecX — Logo system' },
+          { src: projecXOverview, alt: 'ProjecX — Overview' },
+          { src: projecXSolution, alt: 'ProjecX — Solution' }
         ]
       }
     },
@@ -922,7 +1015,7 @@ export const serviceProjects: Record<string, Project[]> = {
       title: 'Builder Builder Pro',
       genre: 'Web Dev',
       description: 'Smarter construction. Better control.',
-      image: builderBuilderCover,
+      image: builderProCover,
       url: '#',
       details: {
         heroTitle: 'Builder Builder Pro',
@@ -940,7 +1033,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'Builder Builder Pro brings real-world construction workflows into a clean digital system for planning, collaboration, and cost/invoice tracking.',
             'A dashboard-first approach improves visibility for managers, contractors, and field teams with mobile-first usability on site.'
           ],
-          image: builderBuilderCover
+          image: builderProOverview
         },
         tags: ['Construction', 'Project Dashboard', 'Collaboration', 'Invoices', 'Mobile-first', 'SaaS'],
         challenge: {
@@ -963,7 +1056,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'Core features include project dashboards, task & team management, real-time collaboration, invoice generation and tracking, and secure controlled access.',
             'The system supports scalable workflows for projects of any size while keeping decision-making fast through clear reporting.'
           ],
-          image: builderBuilderCover
+          image: builderProSolution
         },
         results: [
           { stat: '↑', label: 'project visibility' },
@@ -972,20 +1065,20 @@ export const serviceProjects: Record<string, Project[]> = {
           { stat: 'Faster', label: 'decision-making through dashboards' }
         ],
         gallery: [
-          { src: builderBuilderCover, alt: 'Builder Builder — Screen 1' },
-          { src: builderBuilderGallery2, alt: 'Builder Builder — Screen 2' },
-          { src: builderBuilderGallery3, alt: 'Builder Builder — Screen 3' },
-          { src: builderBuilderGallery4, alt: 'Builder Builder — Screen 4' },
-          { src: builderBuilderGallery5, alt: 'Builder Builder — Screen 5' },
-          { src: builderBuilderGallery6, alt: 'Builder Builder — Screen 6' }
+          { src: builderProCover, alt: 'Builder Builder Pro — Cover' },
+          { src: builderProOverview, alt: 'Builder Builder Pro — Overview' },
+          { src: builderProSolution, alt: 'Builder Builder Pro — Solution' },
+          { src: builderProGallery1, alt: 'Builder Builder Pro — Gallery 1' },
+          { src: builderProGallery2, alt: 'Builder Builder Pro — Gallery 2' },
+          { src: builderProGallery3, alt: 'Builder Builder Pro — Gallery 3' },
+          { src: builderProGallery4, alt: 'Builder Builder Pro — Gallery 4' },
+          { src: builderProGallery5, alt: 'Builder Builder Pro — Gallery 5' },
+          { src: builderProGallery6, alt: 'Builder Builder Pro — Gallery 6' }
         ],
         designSystemImages: [
-          { src: builderBuilderCover, alt: 'Builder Builder — Design system 1' },
-          { src: builderBuilderGallery2, alt: 'Builder Builder — Design system 2' },
-          { src: builderBuilderGallery3, alt: 'Builder Builder — Design system 3' },
-          { src: builderBuilderGallery4, alt: 'Builder Builder — Design system 4' },
-          { src: builderBuilderGallery5, alt: 'Builder Builder — Design system 5' },
-          { src: builderBuilderGallery6, alt: 'Builder Builder — Design system 6' }
+          { src: builderProLogo, alt: 'Builder Builder Pro — Logo system' },
+          { src: builderProOverview, alt: 'Builder Builder Pro — Overview' },
+          { src: builderProSolution, alt: 'Builder Builder Pro — Solution' }
         ]
       }
     },
@@ -994,7 +1087,7 @@ export const serviceProjects: Record<string, Project[]> = {
       title: 'CircuitHub',
       genre: 'Web Dev',
       description: 'Smart electronics shopping, simplified.',
-      image: 'https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&q=80',
+      image: circuitHubCover,
       url: '#',
       details: {
         heroTitle: 'CircuitHub',
@@ -1012,7 +1105,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'CircuitHub improves product browsing and discovery with responsive UI, structured collections, and efficient navigation.',
             'On the admin side, it supports product, customer, inventory, and order workflows to reduce operational friction.'
           ],
-          image: 'https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&q=80'
+          image: circuitHubOverview
         },
         tags: ['E-commerce', 'Admin Dashboard', 'Inventory', 'Collections', 'Responsive UI', 'Performance'],
         challenge: {
@@ -1035,13 +1128,536 @@ export const serviceProjects: Record<string, Project[]> = {
             'CircuitHub provides product management, collections, order tracking, customer management, and responsive experiences across devices.',
             'The structure supports scalable catalogs and consistent operational control through a dashboard-first admin system.'
           ],
-          image: 'https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&q=80'
+          image: circuitHubSolution
         },
         results: [
           { stat: '↑', label: 'shopping clarity and discovery' },
           { stat: '↓', label: 'admin friction for orders/inventory' },
           { stat: 'Fast', label: 'responsive performance across devices' },
           { stat: 'Scalable', label: 'catalog structure for growth' }
+        ],
+        gallery: [
+          { src: circuitHubCover, alt: 'CircuitHub — Cover' },
+          { src: circuitHubOverview, alt: 'CircuitHub — Overview' },
+          { src: circuitHubSolution, alt: 'CircuitHub — Solution' },
+          { src: circuitHubGallery1, alt: 'CircuitHub — Gallery 1' },
+          { src: circuitHubGallery2, alt: 'CircuitHub — Gallery 2' },
+          { src: circuitHubGallery3, alt: 'CircuitHub — Gallery 3' }
+        ],
+        designSystemImages: [
+          { src: circuitHubLogo, alt: 'CircuitHub — Logo system' },
+          { src: circuitHubOverview, alt: 'CircuitHub — Overview' },
+          { src: circuitHubSolution, alt: 'CircuitHub — Solution' }
+        ]
+      }
+    },
+    {
+      id: 7,
+      title: 'QR DoorMan',
+      genre: 'Web Dev',
+      description: 'Secure access. Smart control.',
+      image: qrDoormanCover,
+      url: '#',
+      details: {
+        heroTitle: 'QR DoorMan',
+        heroSubtitle: 'Secure access control system for defence environments, enabling QR-based entry, centralized monitoring, and encrypted communication across web and mobile platforms.',
+        meta: { client: '—', role: '—', timeline: '—', year: '2024', scope: 'Security System · Web & Mobile · Access Control · Automation Platform' },
+        overview: {
+          heading: 'Fast, secure, and controlled access.',
+          paragraphs: [
+            'QR DoorMan is a secure access control system designed for defence environments, enabling QR-based entry, centralized monitoring, and encrypted communication.',
+            'The platform replaces manual entry workflows with automated, role-based access and real-time visibility.'
+          ],
+          image: qrDoormanOverview
+        },
+        tags: ['Security', 'QR Access', 'Monitoring', 'Automation', 'Encrypted Data', 'Role-based Access'],
+        challenge: {
+          title: 'Manual entry systems, limited monitoring, and security risks in data and communication.',
+          paragraphs: [
+            'High-security environments face outdated entry systems and inefficient access control workflows.',
+            'The solution needed centralized monitoring, encrypted communication, and automated workflows without compromising security.'
+          ]
+        },
+        process: {
+          steps: [
+            { step: '01', title: 'Discovery & Audit', body: 'Reviewed access control workflows, security risks, and system gaps across facilities.' },
+            { step: '02', title: 'Strategy & Positioning', body: 'Defined direction: “Fast, secure, and controlled access” with a security-first interface.' },
+            { step: '03', title: 'Design System', body: 'Built a minimal, secure UI with centralized dashboard patterns and clear access states.' }
+          ]
+        },
+        solution: {
+          heading: 'QR entry, live monitoring, and encrypted workflows — unified.',
+          paragraphs: [
+            'QR DoorMan provides QR-based secure entry, a central monitoring dashboard, encrypted data sync, video communication, and workflow automation.',
+            'Access management supports role-based permissions with live access logs and operational alerts.'
+          ],
+          image: qrDoormanSolution
+        },
+        results: [
+          { stat: '↑', label: 'access security' },
+          { stat: 'Faster', label: 'entry management' },
+          { stat: '↓', label: 'manual errors' },
+          { stat: '↑', label: 'operational control' }
+        ],
+        gallery: [
+          { src: qrDoormanCover, alt: 'QR DoorMan — Cover' },
+          { src: qrDoormanOverview, alt: 'QR DoorMan — Overview' },
+          { src: qrDoormanSolution, alt: 'QR DoorMan — Solution' },
+          { src: qrDoormanGallery1, alt: 'QR DoorMan — Gallery 1' },
+          { src: qrDoormanGallery2, alt: 'QR DoorMan — Gallery 2' },
+          { src: qrDoormanGallery3, alt: 'QR DoorMan — Gallery 3' },
+          { src: qrDoormanGallery4, alt: 'QR DoorMan — Gallery 4' },
+          { src: qrDoormanGallery5, alt: 'QR DoorMan — Gallery 5' },
+          { src: qrDoormanGallery6, alt: 'QR DoorMan — Gallery 6' }
+        ],
+        designSystemImages: [
+          { src: qrDoormanLogo, alt: 'QR DoorMan — Logo system' },
+          { src: qrDoormanOverview, alt: 'QR DoorMan — Overview' },
+          { src: qrDoormanSolution, alt: 'QR DoorMan — Solution' }
+        ]
+      }
+    },
+    {
+      id: 8,
+      title: 'Metron Design',
+      genre: 'Web Dev',
+      description: 'Smarter architecture. Streamlined delivery.',
+      image: metronCover,
+      url: '#',
+      details: {
+        heroTitle: 'Metron Design',
+        heroSubtitle: 'Architectural project management platform built to streamline design, collaboration, and construction workflows from planning to execution.',
+        meta: { client: '—', role: '—', timeline: '—', year: '2024', scope: 'SaaS Platform · Web App · Architecture · Project Management' },
+        overview: {
+          heading: 'Unified control for modern architecture workflows.',
+          paragraphs: [
+            'Metron Design streamlines design, collaboration, and construction workflows for architecture professionals.',
+            'It centralizes project data, timelines, and team communication in one structured platform.'
+          ],
+          image: metronOverview
+        },
+        tags: ['Architecture', 'Project Management', 'Collaboration', 'Workflow Automation', 'Document Management', 'SaaS'],
+        challenge: {
+          title: 'Disconnected tools, poor stakeholder collaboration, and manual project workflows.',
+          paragraphs: [
+            'Architecture teams struggle with fragmented design and construction data across tools.',
+            'The platform needed organized project modules, secure sharing, and real-time progress tracking.'
+          ]
+        },
+        process: {
+          steps: [
+            { step: '01', title: 'Discovery & Audit', body: 'Mapped architect workflows, collaboration gaps, and project lifecycle issues.' },
+            { step: '02', title: 'Strategy & Positioning', body: 'Defined direction: “Unified control for modern architecture workflows”.' },
+            { step: '03', title: 'Design System', body: 'Created a clean, structured interface with scalable project modules.' }
+          ]
+        },
+        solution: {
+          heading: 'Design, collaboration, and delivery — in one system.',
+          paragraphs: [
+            'Metron Design supports centralized project management, team and client collaboration, structured design data, and workflow automation.',
+            'Progress tracking and secure sharing keep stakeholders aligned from planning through execution.'
+          ],
+          image: metronSolution
+        },
+        results: [
+          { stat: '↑', label: 'project efficiency' },
+          { stat: '↑', label: 'team collaboration' },
+          { stat: 'Faster', label: 'decision-making' },
+          { stat: '↓', label: 'errors and delays' }
+        ],
+        gallery: [
+          { src: metronCover, alt: 'Metron Design — Cover' },
+          { src: metronOverview, alt: 'Metron Design — Overview' },
+          { src: metronSolution, alt: 'Metron Design — Solution' }
+        ],
+        designSystemImages: [
+          { src: metronLogo, alt: 'Metron Design — Logo system' },
+          { src: metronOverview, alt: 'Metron Design — Overview' },
+          { src: metronSolution, alt: 'Metron Design — Solution' }
+        ]
+      }
+    },
+    {
+      id: 9,
+      title: 'Platinum Medical Evaluations',
+      genre: 'Web Dev',
+      description: 'Smarter healthcare. Better outcomes.',
+      image: platinumCover,
+      url: '#',
+      details: {
+        heroTitle: 'Platinum Medical Evaluations',
+        heroSubtitle: 'Healthcare analytics and management platform designed to improve patient care, streamline clinical workflows, and enable data-driven decision-making.',
+        meta: { client: '—', role: '—', timeline: '—', year: '2024', scope: 'Healthcare Platform · Web App · Analytics System · Patient Management' },
+        overview: {
+          heading: 'Connected care through intelligent systems.',
+          paragraphs: [
+            'Platinum Medical Evaluations improves patient care through centralized management, remote healthcare access, and automated clinical workflows.',
+            'A data-driven UI supports reporting, scheduling, and secure patient records.'
+          ],
+          image: platinumOverview
+        },
+        tags: ['Healthcare', 'Analytics', 'Telehealth', 'Patient Records', 'Scheduling', 'Workflow Automation'],
+        challenge: {
+          title: 'Inefficient patient management, limited real-time insights, and manual clinical workflows.',
+          paragraphs: [
+            'Healthcare providers face disconnected systems and manual processes that reduce care quality.',
+            'The platform needed seamless doctor–patient interaction with structured, secure data handling.'
+          ]
+        },
+        process: {
+          steps: [
+            { step: '01', title: 'Discovery & Audit', body: 'Studied clinical workflows, patient journeys, and system inefficiencies.' },
+            { step: '02', title: 'Strategy & Positioning', body: 'Defined direction: “Connected care through intelligent systems”.' },
+            { step: '03', title: 'Design System', body: 'Built a clean, data-driven healthcare UI with structured workflows.' }
+          ]
+        },
+        solution: {
+          heading: 'Patient management, telehealth, and analytics — centralized.',
+          paragraphs: [
+            'Core features include remote consultations, health analytics, appointment scheduling, patient records, and workflow automation.',
+            'Dashboard modules give providers clear visibility into operations and patient data.'
+          ],
+          image: platinumSolution
+        },
+        results: [
+          { stat: '↑', label: 'patient care delivery' },
+          { stat: 'Faster', label: 'clinical workflows' },
+          { stat: '↓', label: 'administrative burden' },
+          { stat: '↑', label: 'data-driven decisions' }
+        ],
+        gallery: [
+          { src: platinumCover, alt: 'Platinum Medical — Cover' },
+          { src: platinumOverview, alt: 'Platinum Medical — Overview' },
+          { src: platinumSolution, alt: 'Platinum Medical — Solution' },
+          { src: platinumGallery1, alt: 'Platinum Medical — Gallery 1' },
+          { src: platinumGallery2, alt: 'Platinum Medical — Gallery 2' },
+          { src: platinumGallery3, alt: 'Platinum Medical — Gallery 3' },
+          { src: platinumGallery4, alt: 'Platinum Medical — Gallery 4' },
+          { src: platinumGallery5, alt: 'Platinum Medical — Gallery 5' },
+          { src: platinumGallery6, alt: 'Platinum Medical — Gallery 6' }
+        ],
+        designSystemImages: [
+          { src: platinumLogo, alt: 'Platinum Medical — Logo system' },
+          { src: platinumOverview, alt: 'Platinum Medical — Overview' },
+          { src: platinumSolution, alt: 'Platinum Medical — Solution' }
+        ]
+      }
+    },
+    {
+      id: 10,
+      title: 'HouseCall MD',
+      genre: 'Web Dev',
+      description: 'Connected care. Smarter operations.',
+      image: hcmdCover,
+      url: '#',
+      details: {
+        heroTitle: 'HouseCall MD',
+        heroSubtitle: 'Comprehensive healthcare management platform that centralizes appointments, patient records, telehealth, and analytics into one unified system.',
+        meta: { client: '—', role: '—', timeline: '—', year: '2024', scope: 'Healthcare Platform · Web App · Telehealth · Patient Management' },
+        overview: {
+          heading: 'One platform for connected healthcare delivery.',
+          paragraphs: [
+            'HouseCall MD centralizes appointments, patient records, telehealth, and analytics for faster, safer, patient-focused care.',
+            'The platform reduces administrative workload and improves coordination between clinical teams.'
+          ],
+          image: hcmdOverview
+        },
+        tags: ['Healthcare', 'Telehealth', 'Appointments', 'Patient Records', 'Analytics', 'Workflow Automation'],
+        challenge: {
+          title: 'Disconnected systems, high administrative workload, and limited real-time insights.',
+          paragraphs: [
+            'Healthcare providers juggle separate tools for appointments, records, and communication.',
+            'The solution needed secure telehealth, automated workflows, and actionable clinical insights.'
+          ]
+        },
+        process: {
+          steps: [
+            { step: '01', title: 'Discovery & Audit', body: 'Reviewed clinical workflows, patient journeys, and system inefficiencies.' },
+            { step: '02', title: 'Strategy & Positioning', body: 'Defined direction: “One platform for connected healthcare delivery”.' },
+            { step: '03', title: 'Design System', body: 'Built a clean, scalable UI with structured healthcare modules.' }
+          ]
+        },
+        solution: {
+          heading: 'Telehealth, records, and operations — unified.',
+          paragraphs: [
+            'HouseCall MD supports telehealth consultations, appointment management, centralized patient records, analytics, and secure communication.',
+            'Automation tools reduce manual tasks while keeping staff and patients connected.'
+          ],
+          image: hcmdSolution
+        },
+        results: [
+          { stat: 'Faster', label: 'patient care delivery' },
+          { stat: '↑', label: 'clinical coordination' },
+          { stat: '↓', label: 'administrative workload' },
+          { stat: '↑', label: 'decision-making through analytics' }
+        ],
+        gallery: [
+          { src: hcmdCover, alt: 'HouseCall MD — Cover' },
+          { src: hcmdOverview, alt: 'HouseCall MD — Overview' },
+          { src: hcmdSolution, alt: 'HouseCall MD — Solution' }
+        ],
+        designSystemImages: [
+          { src: hcmdCover, alt: 'HouseCall MD — Logo system' },
+          { src: hcmdOverview, alt: 'HouseCall MD — Overview' },
+          { src: hcmdSolution, alt: 'HouseCall MD — Solution' }
+        ]
+      }
+    },
+    {
+      id: 11,
+      title: 'Supportive Care Specialists',
+      genre: 'Web Dev',
+      description: 'Efficient scheduling. Better patient care.',
+      image: scsCover,
+      url: '#',
+      details: {
+        heroTitle: 'Supportive Care Specialists',
+        heroSubtitle: 'Healthcare management platform focused on appointment scheduling, patient records, telehealth, and workflow automation for patient-centered care.',
+        meta: { client: '—', role: '—', timeline: '—', year: '2024', scope: 'Healthcare Platform · Web App · Scheduling System · Telehealth' },
+        overview: {
+          heading: 'Streamlined care through connected systems.',
+          paragraphs: [
+            'Supportive Care Specialists enables efficient appointment management, centralized patient records, and secure telehealth consultations.',
+            'Workflow automation reduces manual processes and improves clinical coordination.'
+          ],
+          image: scsOverview
+        },
+        tags: ['Healthcare', 'Scheduling', 'Telehealth', 'EHR', 'Analytics', 'Workflow Automation'],
+        challenge: {
+          title: 'Inefficient scheduling, disconnected records, and limited telehealth access.',
+          paragraphs: [
+            'Providers face longer wait times and poor coordination from manual workflows.',
+            'The platform needed efficient booking, secure records, and data-driven reporting.'
+          ]
+        },
+        process: {
+          steps: [
+            { step: '01', title: 'Discovery & Audit', body: 'Studied clinical workflows, scheduling gaps, and the patient journey.' },
+            { step: '02', title: 'Strategy & Positioning', body: 'Defined direction: “Streamlined care through connected systems”.' },
+            { step: '03', title: 'Design System', body: 'Built a clean, scalable healthcare UI with structured modules.' }
+          ]
+        },
+        solution: {
+          heading: 'Scheduling, telehealth, and records — together.',
+          paragraphs: [
+            'Core features include appointment scheduling, telehealth, patient records (EHR), analytics, workflow automation, and secure communication.',
+            'The web platform supports scheduling dashboards, patient data management, and reporting.'
+          ],
+          image: scsSolution
+        },
+        results: [
+          { stat: 'Faster', label: 'appointment handling' },
+          { stat: '↑', label: 'patient experience' },
+          { stat: '↓', label: 'administrative workload' },
+          { stat: '↑', label: 'clinical coordination' }
+        ],
+        gallery: [
+          { src: scsCover, alt: 'Supportive Care Specialists — Cover' },
+          { src: scsOverview, alt: 'Supportive Care Specialists — Overview' },
+          { src: scsSolution, alt: 'Supportive Care Specialists — Solution' },
+          { src: scsGallery1, alt: 'Supportive Care Specialists — Gallery 1' },
+          { src: scsGallery2, alt: 'Supportive Care Specialists — Gallery 2' },
+          { src: scsGallery3, alt: 'Supportive Care Specialists — Gallery 3' },
+          { src: scsGallery4, alt: 'Supportive Care Specialists — Gallery 4' },
+          { src: scsGallery5, alt: 'Supportive Care Specialists — Gallery 5' },
+          { src: scsGallery6, alt: 'Supportive Care Specialists — Gallery 6' }
+        ],
+        designSystemImages: [
+          { src: scsLogo, alt: 'Supportive Care Specialists — Logo system' },
+          { src: scsOverview, alt: 'Supportive Care Specialists — Overview' },
+          { src: scsSolution, alt: 'Supportive Care Specialists — Solution' }
+        ]
+      }
+    },
+    {
+      id: 12,
+      title: 'Vital Heal',
+      genre: 'Web Dev',
+      description: 'Smarter wound care. Better healing.',
+      image: vitalHealCover,
+      url: '#',
+      details: {
+        heroTitle: 'Vital Heal',
+        heroSubtitle: 'Wound care management platform designed to streamline treatment workflows, improve clinical efficiency, and enhance patient outcomes.',
+        meta: { client: '—', role: '—', timeline: '—', year: '2024', scope: 'Healthcare Platform · Web App · Wound Care · EHR System' },
+        overview: {
+          heading: 'Faster healing through intelligent care systems.',
+          paragraphs: [
+            'Vital Heal streamlines wound care management with real-time monitoring, remote consultations, and automated workflows.',
+            'A clinical, data-first interface supports treatment tracking and secure patient records.'
+          ],
+          image: vitalHealOverview
+        },
+        tags: ['Wound Care', 'Healthcare', 'Telehealth', 'EHR', 'Analytics', 'Workflow Automation'],
+        challenge: {
+          title: 'Delays in treatment, inefficient documentation, and limited patient engagement.',
+          paragraphs: [
+            'Providers face manual workflows and compliance challenges in wound care delivery.',
+            'The platform needed efficient tracking, remote access, and secure communication.'
+          ]
+        },
+        process: {
+          steps: [
+            { step: '01', title: 'Discovery & Audit', body: 'Reviewed clinical workflows, wound care processes, and documentation gaps.' },
+            { step: '02', title: 'Strategy & Positioning', body: 'Defined direction: “Faster healing through intelligent care systems”.' },
+            { step: '03', title: 'Design System', body: 'Built a clean, data-driven healthcare UI for clinical use.' }
+          ]
+        },
+        solution: {
+          heading: 'Wound tracking, telehealth, and clinical insight — unified.',
+          paragraphs: [
+            'Vital Heal supports wound care tracking, telehealth consultations, patient records, appointment scheduling, analytics, and workflow automation.',
+            'Clinical dashboards and reporting help teams monitor treatment progress and outcomes.'
+          ],
+          image: vitalHealSolution
+        },
+        results: [
+          { stat: 'Faster', label: 'treatment cycles' },
+          { stat: '↑', label: 'patient outcomes' },
+          { stat: '↓', label: 'administrative workload' },
+          { stat: '↑', label: 'clinical efficiency' }
+        ],
+        gallery: [
+          { src: vitalHealCover, alt: 'Vital Heal — Cover' },
+          { src: vitalHealOverview, alt: 'Vital Heal — Overview' },
+          { src: vitalHealSolution, alt: 'Vital Heal — Solution' }
+        ],
+        designSystemImages: [
+          { src: vitalHealLogo, alt: 'Vital Heal — Logo system' },
+          { src: vitalHealOverview, alt: 'Vital Heal — Overview' },
+          { src: vitalHealSolution, alt: 'Vital Heal — Solution' }
+        ]
+      }
+    },
+    {
+      id: 13,
+      title: 'MediTask Pro',
+      genre: 'Web Dev',
+      description: 'Automate care. Simplify workflows.',
+      image: meditaskCover,
+      url: '#',
+      details: {
+        heroTitle: 'MediTask Pro',
+        heroSubtitle: 'Healthcare workflow automation platform designed to streamline clinical operations, improve communication, and enhance patient care across web and mobile.',
+        meta: { client: '—', role: '—', timeline: '—', year: '2024', scope: 'Healthcare Platform · Web & Mobile · Workflow Automation · Patient Management' },
+        overview: {
+          heading: 'Automation-driven healthcare efficiency.',
+          paragraphs: [
+            'MediTask Pro automates healthcare workflows with centralized patient data, seamless communication, and efficient scheduling.',
+            'A unified web and mobile experience keeps providers and patients connected with real-time updates.'
+          ],
+          image: meditaskOverview
+        },
+        tags: ['Healthcare', 'Workflow Automation', 'Scheduling', 'Telehealth', 'Patient Records', 'Task Management'],
+        challenge: {
+          title: 'Manual administrative tasks, inefficient communication, and complex scheduling.',
+          paragraphs: [
+            'Healthcare providers face disorganized records and workflows that delay care.',
+            'The platform needed automation-first design with secure, accessible patient data.'
+          ]
+        },
+        process: {
+          steps: [
+            { step: '01', title: 'Discovery & Audit', body: 'Mapped clinical workflows, communication gaps, and operational inefficiencies.' },
+            { step: '02', title: 'Strategy & Positioning', body: 'Defined direction: “Automation-driven healthcare efficiency”.' },
+            { step: '03', title: 'Design System', body: 'Built a clean, scalable UI with structured healthcare workflows.' }
+          ]
+        },
+        solution: {
+          heading: 'Scheduling, records, and tasks — automated.',
+          paragraphs: [
+            'MediTask Pro supports appointment scheduling, patient records, prescription management, telehealth, and customizable task workflows.',
+            'Administrative dashboards and mobile updates keep teams aligned across devices.'
+          ],
+          image: meditaskSolution
+        },
+        results: [
+          { stat: '↓', label: 'administrative workload' },
+          { stat: '↑', label: 'patient communication' },
+          { stat: 'Faster', label: 'clinical workflows' },
+          { stat: '↑', label: 'patient satisfaction' }
+        ],
+        gallery: [
+          { src: meditaskCover, alt: 'MediTask Pro — Cover' },
+          { src: meditaskOverview, alt: 'MediTask Pro — Overview' },
+          { src: meditaskSolution, alt: 'MediTask Pro — Solution' },
+          { src: meditaskGallery1, alt: 'MediTask Pro — Gallery 1' },
+          { src: meditaskGallery2, alt: 'MediTask Pro — Gallery 2' },
+          { src: meditaskGallery3, alt: 'MediTask Pro — Gallery 3' },
+          { src: meditaskGallery4, alt: 'MediTask Pro — Gallery 4' },
+          { src: meditaskGallery5, alt: 'MediTask Pro — Gallery 5' },
+          { src: meditaskGallery5Alt, alt: 'MediTask Pro — Gallery 5 (alt)' }
+        ],
+        designSystemImages: [
+          { src: meditaskLogo, alt: 'MediTask Pro — Logo system' },
+          { src: meditaskOverview, alt: 'MediTask Pro — Overview' },
+          { src: meditaskSolution, alt: 'MediTask Pro — Solution' }
+        ]
+      }
+    },
+    {
+      id: 14,
+      title: 'Vanguard',
+      genre: 'Web Dev',
+      description: 'Real-time manufacturing. Intelligent control.',
+      image: webVanguardCover,
+      url: '#',
+      details: {
+        heroTitle: 'Vanguard',
+        heroSubtitle: 'Next-generation manufacturing monitoring platform providing real-time visibility, device control, and secure communication for industrial operations.',
+        meta: { client: 'AIX Team', role: '—', timeline: '—', year: '2024', scope: 'Manufacturing Platform · Web & Mobile · IoT Monitoring · Control System' },
+        overview: {
+          heading: 'Live data. Instant control.',
+          paragraphs: [
+            'Vanguard provides real-time monitoring of manufacturing systems with secure data sync and direct device control.',
+            'Data-driven dashboards visualize PCB data and system performance for faster operational decisions.'
+          ],
+          image: webVanguardOverview
+        },
+        tags: ['Manufacturing', 'IoT', 'Real-time Monitoring', 'Device Control', 'Analytics', 'Firebase'],
+        challenge: {
+          title: 'Limited real-time visibility, delayed response, and scattered operational data.',
+          paragraphs: [
+            'Manufacturing teams lack centralized monitoring and secure device communication.',
+            'The platform needed live visualization, instant alerts, and relay-based control for faster response.'
+          ]
+        },
+        process: {
+          steps: [
+            { step: '01', title: 'Discovery & Audit', body: 'Reviewed manufacturing workflows, monitoring gaps, and device control challenges.' },
+            { step: '02', title: 'Strategy & Positioning', body: 'Defined direction: “Live data. Instant control.” with real-time visualization priority.' },
+            { step: '03', title: 'Design System', body: 'Built data-driven dashboards with real-time indicators and control patterns.' }
+          ]
+        },
+        solution: {
+          heading: 'Monitoring, visualization, and control — centralized.',
+          paragraphs: [
+            'Vanguard includes a real-time dashboard, Firebase data sync, PCB data visualization, relay-based device control, and encrypted communication.',
+            'Web and mobile experiences support monitoring, alerts, and on-the-go control actions.'
+          ],
+          image: webVanguardSolution
+        },
+        results: [
+          { stat: '↓', label: 'operational downtime' },
+          { stat: 'Faster', label: 'response to system issues' },
+          { stat: '↑', label: 'manufacturing efficiency' },
+          { stat: '↑', label: 'data-driven decisions' }
+        ],
+        gallery: [
+          { src: webVanguardCover, alt: 'Vanguard — Cover' },
+          { src: webVanguardOverview, alt: 'Vanguard — Overview' },
+          { src: webVanguardSolution, alt: 'Vanguard — Solution' },
+          { src: webVanguardGallery1, alt: 'Vanguard — Gallery 1' },
+          { src: webVanguardGallery2, alt: 'Vanguard — Gallery 2' },
+          { src: webVanguardGallery3, alt: 'Vanguard — Gallery 3' },
+          { src: webVanguardGallery4, alt: 'Vanguard — Gallery 4' },
+          { src: webVanguardGallery5, alt: 'Vanguard — Gallery 5' },
+          { src: webVanguardGallery6, alt: 'Vanguard — Gallery 6' }
+        ],
+        designSystemImages: [
+          { src: webVanguardLogo, alt: 'Vanguard — Logo system' },
+          { src: webVanguardOverview, alt: 'Vanguard — Overview' },
+          { src: webVanguardSolution, alt: 'Vanguard — Solution' }
         ]
       }
     },
@@ -1139,75 +1755,6 @@ export const serviceProjects: Record<string, Project[]> = {
     },
     {
       id: 2,
-      title: 'MediMinder',
-      genre: 'Mobile Dev',
-      description: 'Never miss a dose.',
-      image: mediMinderCover,
-      url: '#',
-      details: {
-        heroTitle: 'MediMinder',
-        heroSubtitle: 'Medication management mobile app designed to improve adherence through smart reminders, tracking, and device integration.',
-        meta: {
-          client: '—',
-          role: '—',
-          timeline: '—',
-          year: '2024',
-          scope: 'Mobile App · Healthcare · Medication Tracking · IoT Integration'
-        },
-        overview: {
-          heading: 'Simple, reliable medication management.',
-          paragraphs: [
-            'MediMinder helps patients follow complex medication schedules with reminders, tracking, and clear daily dashboards.',
-            'It supports stock monitoring and connected-device syncing to keep adherence reliable and reduce missed or incorrect doses.'
-          ],
-          image: mediMinderCover
-        },
-        tags: ['Healthcare', 'Reminders', 'Medication Tracking', 'IoT', 'Dark Mode', 'Accessibility'],
-        challenge: {
-          title: 'Missed doses, complex schedules, and poor visibility of medication usage and stock.',
-          paragraphs: [
-            'Patients and caregivers struggle to stay consistent, especially with multiple medications and timings.',
-            'The solution needed to be minimal, highly readable, and reliable in notifications without adding friction.'
-          ]
-        },
-        process: {
-          steps: [
-            { step: '01', title: 'Discovery & Audit', body: 'Studied patient routines, adherence challenges, and device usage patterns.' },
-            { step: '02', title: 'Strategy & Positioning', body: 'Defined direction: “Simple, reliable medication management” with clarity-first UI.' },
-            { step: '03', title: 'Design System', body: 'Created scalable components for reminders, tracking states, and accessibility-friendly flows.' }
-          ]
-        },
-        solution: {
-          heading: 'Reminders + tracking + stock visibility, in one flow.',
-          paragraphs: [
-            'Core features include medication organization, smart reminders with sound/vibration, Bluetooth-based device integration, dark mode, and stock monitoring.',
-            'The mobile experience centers on a daily dashboard that makes schedules and actions obvious at a glance.'
-          ],
-          image: mediMinderCover
-        },
-        results: [
-          { stat: '↑', label: 'medication adherence' },
-          { stat: '↓', label: 'missed doses' },
-          { stat: '↑', label: 'daily routine consistency' },
-          { stat: 'Clear', label: 'visibility into stock and schedules' }
-        ],
-        gallery: [
-          { src: mediMinderCover, alt: 'MediMinder — Cover' },
-          { src: mediMinderGallery2, alt: 'MediMinder — Screen 1' },
-          { src: mediMinderGallery3, alt: 'MediMinder — Screen 2' },
-          { src: mediMinderGallery4, alt: 'MediMinder — Screen 3' },
-          { src: mediMinderGallery5, alt: 'MediMinder — Screen 4' },
-          { src: mediMinderGallery6, alt: 'MediMinder — Screen 5' }
-        ],
-        designSystemImages: [
-          { src: mediMinderCover, alt: 'MediMinder — Design system 1' },
-          { src: mediMinderGallery3, alt: 'MediMinder — Design system 2' },
-          { src: mediMinderGallery4, alt: 'MediMinder — Design system 3' }
-        ]
-      }
-    },
-    {
-      id: 3,
       title: 'Athliix',
       genre: 'Mobile Dev',
       description: 'Fitness, gamified.',
@@ -1572,7 +2119,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'Heatriq provides centralized dashboards that make system status, analytics, and alerts immediately visible.',
             'The design approach is clean and data-first with fast, responsive interactions and consistent web + mobile patterns.'
           ],
-          image: heatriqCover
+          image: heatriqOverview
         },
         tags: ['Monitoring', 'Dashboards', 'Alerts', 'Analytics', 'Remote Access', 'Admin'],
         challenge: {
@@ -1595,7 +2142,7 @@ export const serviceProjects: Record<string, Project[]> = {
             'Web features include live monitoring dashboards, analytics & reports, alerts management, system control panels, and user/role management.',
             'Mobile features include live status views, push notifications, quick actions, compact dashboards, and access control.'
           ],
-          image: heatriqCover
+          image: heatriqSolution
         },
         results: [
           { stat: '↑', label: 'system visibility' },
@@ -1605,17 +2152,19 @@ export const serviceProjects: Record<string, Project[]> = {
         ],
         gallery: [
           { src: heatriqCover, alt: 'Heatriq — Cover' },
-          { src: heatriqGallery2, alt: 'Heatriq — Screen 1' },
-          { src: heatriqGallery3, alt: 'Heatriq — Screen 2' },
-          { src: heatriqGallery4, alt: 'Heatriq — Screen 3' },
-          { src: heatriqGallery5, alt: 'Heatriq — Screen 4' },
-          { src: heatriqGallery6, alt: 'Heatriq — Screen 5' },
-          { src: heatriqGallery7, alt: 'Heatriq — Screen 6' }
+          { src: heatriqOverview, alt: 'Heatriq — Overview' },
+          { src: heatriqSolution, alt: 'Heatriq — Solution' },
+          { src: heatriqGallery1, alt: 'Heatriq — Gallery 1' },
+          { src: heatriqGallery2, alt: 'Heatriq — Gallery 2' },
+          { src: heatriqGallery3, alt: 'Heatriq — Gallery 3' },
+          { src: heatriqGallery4, alt: 'Heatriq — Gallery 4' },
+          { src: heatriqGallery5, alt: 'Heatriq — Gallery 5' },
+          { src: heatriqGallery6, alt: 'Heatriq — Gallery 6' }
         ],
         designSystemImages: [
-          { src: heatriqCover, alt: 'Heatriq — Design system 1' },
-          { src: heatriqGallery2, alt: 'Heatriq — Design system 2' },
-          { src: heatriqGallery3, alt: 'Heatriq — Design system 3' }
+          { src: heatriqLogo, alt: 'Heatriq — Logo system' },
+          { src: heatriqOverview, alt: 'Heatriq — Overview' },
+          { src: heatriqSolution, alt: 'Heatriq — Solution' }
         ]
       }
     },
