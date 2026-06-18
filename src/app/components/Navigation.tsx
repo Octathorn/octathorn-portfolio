@@ -1,4 +1,4 @@
-import image_da4b86b575347f6936ab64824f29eb6f45d45a08 from 'figma:asset/da4b86b575347f6936ab64824f29eb6f45d45a08.png';
+import image_da4b86b575347f6936ab64824f29eb6f45d45a08 from '../../assets/da4b86b575347f6936ab64824f29eb6f45d45a08.png';
 import { Search, ArrowUpRight } from 'lucide-react';
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';

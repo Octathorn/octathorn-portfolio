@@ -2,14 +2,14 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { ChevronLeft, ChevronRight, X } from 'lucide-react';
 import { ContactInfo } from './ContactInfo';
-import { ProjectDetails } from './ProjectDetails';
 import { serviceProjects } from './projectsData';
-import imgSlide1 from "figma:asset/4f8036569aced65fc200078b7f4d97cd93dce27e.png";
-import imgSlide2 from "figma:asset/44d885758b6ee670511b09c36b581bda66d69eed.png";
-import imgSlide3 from "figma:asset/a992bc3d174e41743d792804d792d217762a79bf.png";
+import imgSlide1 from '../../assets/4f8036569aced65fc200078b7f4d97cd93dce27e.png';
+import imgSlide2 from '../../assets/44d885758b6ee670511b09c36b581bda66d69eed.png';
+import imgSlide3 from '../../assets/a992bc3d174e41743d792804d792d217762a79bf.png';
 
 interface ServicePageProps {
   serviceName: string;
+  onSelectProject?: (projectTitle: string) => void;
 }
 
 // Fallback projects for services without dedicated data
@@ -19,11 +19,10 @@ const fallbackProjects = (name: string) => [
   { id: 3, title: `${name} — Innovation & Excellence`, genre: 'Innovation', description: 'Delivering Quality Solutions', image: imgSlide3, url: '#' },
 ];
 
-export function ServicePage({ serviceName }: ServicePageProps) {
+export function ServicePage({ serviceName, onSelectProject }: ServicePageProps) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [direction, setDirection] = useState(0);
   const [isAutoPlaying, setIsAutoPlaying] = useState(true);
-  const [selectedProject, setSelectedProject] = useState<number | null>(null);
   const [previewImage, setPreviewImage] = useState<number | null>(null);
 
   const shows = serviceProjects[serviceName] ?? fallbackProjects(serviceName);
@@ -70,10 +69,11 @@ export function ServicePage({ serviceName }: ServicePageProps) {
     mass: 1,
   };
 
-  // If a project is selected, show the details page
-  if (selectedProject !== null) {
-    return <ProjectDetails project={shows[selectedProject]} onBack={() => setSelectedProject(null)} />;
-  }
+  const handleViewMore = () => {
+    const project = shows[currentIndex];
+    if (!project) return;
+    onSelectProject?.(project.title);
+  };
 
   return (
     <div className="relative w-full bg-[#1D1D1D]">
@@ -172,7 +172,7 @@ export function ServicePage({ serviceName }: ServicePageProps) {
                     </div>
                     <div className="flex gap-3 flex-shrink-0">
                       <button
-                        onClick={() => setSelectedProject(currentIndex)}
+                        onClick={handleViewMore}
                         className="bg-white hover:bg-white/90 text-black px-6 py-3 rounded-full text-sm transition-all duration-200 hover:scale-105 active:scale-95"
                         style={{ fontFamily: 'Acumin Pro, sans-serif' }}
                       >
